@@ -5919,8 +5919,8 @@ SUMMARY:Działalność wychowawcza i profilaktyka dyscyplinarna (ćwiczeni
 DTSTART;TZID=Europe/Warsaw:20260511T095000
 DTEND;TZID=Europe/Warsaw:20260511T112500
 UID:2026_05_11_block2_WCY22KB1S0_DWiPD@wcy-planner
-DESCRIPTION:DWiPD (ć) 205 65 [2]
-LOCATION:205 65
+DESCRIPTION:DWiPD (ć) 309 S [2]
+LOCATION:309 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
