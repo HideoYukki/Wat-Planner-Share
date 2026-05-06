@@ -6125,22 +6125,6 @@ DESCRIPTION:WF (ć) - [81]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Modelowanie i analiza sieci złożonych - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20260521T154500
-DTEND;TZID=Europe/Warsaw:20260521T172000
-UID:2026_05_21_block5_WCY22KB1S0_Masz@wcy-planner
-DESCRIPTION:Masz (L) 227 S MPe[5]
-LOCATION:227 S
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Modelowanie i analiza sieci złożonych - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20260521T173500
-DTEND;TZID=Europe/Warsaw:20260521T191000
-UID:2026_05_21_block6_WCY22KB1S0_Masz@wcy-planner
-DESCRIPTION:Masz (L) 227 S MPe[6]
-LOCATION:227 S
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rozproszone przetwarzanie danych - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20260522T080000
 DTEND;TZID=Europe/Warsaw:20260522T093500
@@ -6171,6 +6155,22 @@ DTEND;TZID=Europe/Warsaw:20260522T150500
 UID:2026_05_22_block4_WCY22KB1S0_MeSK@wcy-planner
 DESCRIPTION:MeSK (L) 226 S Pe[8]
 LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modelowanie i analiza sieci złożonych - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20260522T154500
+DTEND;TZID=Europe/Warsaw:20260522T172000
+UID:2026_05_22_block5_WCY22KB1S0_Masz@wcy-planner
+DESCRIPTION:Masz (L) 228 S MPe[5]
+LOCATION:228 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modelowanie i analiza sieci złożonych - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20260522T173500
+DTEND;TZID=Europe/Warsaw:20260522T191000
+UID:2026_05_22_block6_WCY22KB1S0_Masz@wcy-planner
+DESCRIPTION:Masz (L) 228 S MPe[6]
+LOCATION:228 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
