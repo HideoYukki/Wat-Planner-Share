@@ -6309,22 +6309,6 @@ DESCRIPTION:Ztel (L) 120 65 Kwoj[6]
 LOCATION:120 65
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Studium ataków i incydentów - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20260428T154500
-DTEND;TZID=Europe/Warsaw:20260428T172000
-UID:2026_04_28_block5_WCY22KC1S0_Sa.@wcy-planner
-DESCRIPTION:Sa. (L) 09 65 MyA[5]
-LOCATION:09 65
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Studium ataków i incydentów - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20260428T173500
-DTEND;TZID=Europe/Warsaw:20260428T191000
-UID:2026_04_28_block6_WCY22KC1S0_Sa.@wcy-planner
-DESCRIPTION:Sa. (L) 09 65 MyA[6]
-LOCATION:09 65
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych - (wykł
  ad)
 DTSTART;TZID=Europe/Warsaw:20260429T080000
@@ -6738,6 +6722,22 @@ DTEND;TZID=Europe/Warsaw:20260514T172000
 UID:2026_05_14_block5_WCY22KC1S0_-@wcy-planner
 DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studium ataków i incydentów - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20260514T173500
+DTEND;TZID=Europe/Warsaw:20260514T191000
+UID:2026_05_14_block6_WCY22KC1S0_Sa.@wcy-planner
+DESCRIPTION:Sa. (L) 120 65 MyA[5]
+LOCATION:120 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studium ataków i incydentów - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20260514T192500
+DTEND;TZID=Europe/Warsaw:20260514T210000
+UID:2026_05_14_block7_WCY22KC1S0_Sa.@wcy-planner
+DESCRIPTION:Sa. (L) 120 65 MyA[6]
+LOCATION:120 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zabezpieczenia teleinformatyczne - (wykład)
