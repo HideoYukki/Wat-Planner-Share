@@ -6197,52 +6197,12 @@ DESCRIPTION:MeSK (w) 314 S Na[4]
 LOCATION:314 S
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bezpieczeństwo systemów informacyjnych - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20260525T114000
-DTEND;TZID=Europe/Warsaw:20260525T131500
-UID:2026_05_25_block3_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (L) 224 S St[1]
-LOCATION:224 S
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20260525T133000
 DTEND;TZID=Europe/Warsaw:20260525T150500
 UID:2026_05_25_block4_WCY22KB1S0_WF@wcy-planner
 DESCRIPTION:WF (ć) - [82]
 LOCATION:-
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpieczeństwo systemów informacyjnych - (wykład)
-DTSTART;TZID=Europe/Warsaw:20260525T154500
-DTEND;TZID=Europe/Warsaw:20260525T172000
-UID:2026_05_25_block5_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (w) 307 S St[7]
-LOCATION:307 S
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpieczeństwo systemów informacyjnych - (wykład)
-DTSTART;TZID=Europe/Warsaw:20260525T173500
-DTEND;TZID=Europe/Warsaw:20260525T191000
-UID:2026_05_25_block6_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (w) 307 S St[8]
-LOCATION:307 S
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpieczeństwo systemów informacyjnych - (ćwiczenia)
-DTSTART;TZID=Europe/Warsaw:20260526T114000
-DTEND;TZID=Europe/Warsaw:20260526T131500
-UID:2026_05_26_block3_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (ć) 313 S St[2]
-LOCATION:313 S
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bezpieczeństwo systemów informacyjnych - (ćwiczenia)
-DTSTART;TZID=Europe/Warsaw:20260526T133000
-DTEND;TZID=Europe/Warsaw:20260526T150500
-UID:2026_05_26_block4_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (ć) 313 S St[3]
-LOCATION:313 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Podstawy kryptologii współczesnej - (ćwiczenia)
@@ -6362,7 +6322,7 @@ SUMMARY:Bezpieczeństwo systemów informacyjnych - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20260529T133000
 DTEND;TZID=Europe/Warsaw:20260529T150500
 UID:2026_05_29_block4_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (L) 227 S St[2]
+DESCRIPTION:Bsi (L) 227 S St[1]
 LOCATION:227 S
 END:VEVENT
 BEGIN:VEVENT
@@ -6370,7 +6330,7 @@ SUMMARY:Bezpieczeństwo systemów informacyjnych - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20260529T154500
 DTEND;TZID=Europe/Warsaw:20260529T172000
 UID:2026_05_29_block5_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (L) 227 S St[3]
+DESCRIPTION:Bsi (L) 227 S St[2]
 LOCATION:227 S
 END:VEVENT
 BEGIN:VEVENT
@@ -6378,7 +6338,7 @@ SUMMARY:Bezpieczeństwo systemów informacyjnych - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20260529T173500
 DTEND;TZID=Europe/Warsaw:20260529T191000
 UID:2026_05_29_block6_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (L) 227 S St[4]
+DESCRIPTION:Bsi (L) 227 S St[3]
 LOCATION:227 S
 END:VEVENT
 BEGIN:VEVENT
@@ -6426,7 +6386,7 @@ SUMMARY:Bezpieczeństwo systemów informacyjnych - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20260601T154500
 DTEND;TZID=Europe/Warsaw:20260601T172000
 UID:2026_06_01_block5_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (ć) 308 S St[4]
+DESCRIPTION:Bsi (ć) 308 S St[2]
 LOCATION:308 S
 END:VEVENT
 BEGIN:VEVENT
@@ -6434,7 +6394,7 @@ SUMMARY:Bezpieczeństwo systemów informacyjnych - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20260601T173500
 DTEND;TZID=Europe/Warsaw:20260601T191000
 UID:2026_06_01_block6_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (ć) 308 S St[5]
+DESCRIPTION:Bsi (ć) 308 S St[3]
 LOCATION:308 S
 END:VEVENT
 BEGIN:VEVENT
@@ -6460,6 +6420,14 @@ DTEND;TZID=Europe/Warsaw:20260602T172000
 UID:2026_06_02_block5_WCY22KB1S0_Pkw@wcy-planner
 DESCRIPTION:Pkw (L) 219 65 Kanciak[5]
 LOCATION:219 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo systemów informacyjnych - (wykład)
+DTSTART;TZID=Europe/Warsaw:20260602T173500
+DTEND;TZID=Europe/Warsaw:20260602T191000
+UID:2026_06_02_block6_WCY22KB1S0_Bsi@wcy-planner
+DESCRIPTION:Bsi (w) 308 S St[7]
+LOCATION:308 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
@@ -6566,6 +6534,14 @@ DESCRIPTION:MPH (w) 19 36 [6]
 LOCATION:19 36
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo systemów informacyjnych - (wykład)
+DTSTART;TZID=Europe/Warsaw:20260610T154500
+DTEND;TZID=Europe/Warsaw:20260610T172000
+UID:2026_06_10_block5_WCY22KB1S0_Bsi@wcy-planner
+DESCRIPTION:Bsi (w) 313 S St[8]
+LOCATION:313 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Działalność wychowawcza i profilaktyka dyscyplinarna (ćwiczeni
  a)
 DTSTART;TZID=Europe/Warsaw:20260611T095000
@@ -6587,7 +6563,7 @@ SUMMARY:Bezpieczeństwo systemów informacyjnych - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20260611T133000
 DTEND;TZID=Europe/Warsaw:20260611T150500
 UID:2026_06_11_block4_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (L) 224 S St[5]
+DESCRIPTION:Bsi (L) 224 S St[4]
 LOCATION:224 S
 END:VEVENT
 BEGIN:VEVENT
@@ -6595,7 +6571,7 @@ SUMMARY:Bezpieczeństwo systemów informacyjnych - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20260611T154500
 DTEND;TZID=Europe/Warsaw:20260611T172000
 UID:2026_06_11_block5_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (L) 224 S St[6]
+DESCRIPTION:Bsi (L) 224 S St[5]
 LOCATION:224 S
 END:VEVENT
 BEGIN:VEVENT
@@ -6603,7 +6579,7 @@ SUMMARY:Bezpieczeństwo systemów informacyjnych - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20260611T173500
 DTEND;TZID=Europe/Warsaw:20260611T191000
 UID:2026_06_11_block6_WCY22KB1S0_Bsi@wcy-planner
-DESCRIPTION:Bsi (L) 224 S St[7]
+DESCRIPTION:Bsi (L) 224 S St[6]
 LOCATION:224 S
 END:VEVENT
 BEGIN:VEVENT
@@ -6637,6 +6613,14 @@ DTEND;TZID=Europe/Warsaw:20260612T150500
 UID:2026_06_12_block4_WCY22KB1S0_MeSK@wcy-planner
 DESCRIPTION:MeSK (L) 226 S Pe[10]
 LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo systemów informacyjnych - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20260612T154500
+DTEND;TZID=Europe/Warsaw:20260612T172000
+UID:2026_06_12_block5_WCY22KB1S0_Bsi@wcy-planner
+DESCRIPTION:Bsi (L) 223 S St[7]
+LOCATION:223 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
@@ -6677,6 +6661,22 @@ DTEND;TZID=Europe/Warsaw:20260615T150500
 UID:2026_06_15_block4_WCY22KB1S0_WF@wcy-planner
 DESCRIPTION:WF (ć) - [89]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo systemów informacyjnych - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260615T154500
+DTEND;TZID=Europe/Warsaw:20260615T172000
+UID:2026_06_15_block5_WCY22KB1S0_Bsi@wcy-planner
+DESCRIPTION:Bsi (ć) 308 S St[4]
+LOCATION:308 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo systemów informacyjnych - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260615T173500
+DTEND;TZID=Europe/Warsaw:20260615T191000
+UID:2026_06_15_block6_WCY22KB1S0_Bsi@wcy-planner
+DESCRIPTION:Bsi (ć) 308 S St[5]
+LOCATION:308 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Metody i systemy wspomagania decyzji - (laboratorium)
