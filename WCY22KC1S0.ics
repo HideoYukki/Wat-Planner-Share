@@ -7121,22 +7121,6 @@ DESCRIPTION:WF (ć) - [84]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Techniki dochodzeniowe i śledcze - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20260529T133000
-DTEND;TZID=Europe/Warsaw:20260529T150500
-UID:2026_05_29_block4_WCY22KC1S0_Tds@wcy-planner
-DESCRIPTION:Tds (L) 106 65 Czer.Ł.[7]
-LOCATION:106 65
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Techniki dochodzeniowe i śledcze - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20260529T154500
-DTEND;TZID=Europe/Warsaw:20260529T172000
-UID:2026_05_29_block5_WCY22KC1S0_Tds@wcy-planner
-DESCRIPTION:Tds (L) 106 65 Czer.Ł.[8]
-LOCATION:106 65
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20260530T080000
 DTEND;TZID=Europe/Warsaw:20260530T093500
@@ -7264,7 +7248,7 @@ SUMMARY:Techniki dochodzeniowe i śledcze - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20260609T080000
 DTEND;TZID=Europe/Warsaw:20260609T093500
 UID:2026_06_09_block1_WCY22KC1S0_Tds@wcy-planner
-DESCRIPTION:Tds (L) 106 65 Czer.Ł.[9]
+DESCRIPTION:Tds (L) 106 65 Czer.Ł.[7]
 LOCATION:106 65
 END:VEVENT
 BEGIN:VEVENT
@@ -7272,7 +7256,7 @@ SUMMARY:Techniki dochodzeniowe i śledcze - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20260609T095000
 DTEND;TZID=Europe/Warsaw:20260609T112500
 UID:2026_06_09_block2_WCY22KC1S0_Tds@wcy-planner
-DESCRIPTION:Tds (L) 106 65 Czer.Ł.[10]
+DESCRIPTION:Tds (L) 106 65 Czer.Ł.[8]
 LOCATION:106 65
 END:VEVENT
 BEGIN:VEVENT
@@ -7357,6 +7341,22 @@ DTEND;TZID=Europe/Warsaw:20260612T112500
 UID:2026_06_12_block2_WCY22KC1S0_Zt@wcy-planner
 DESCRIPTION:Zt (P) 09 65 Ml[5]
 LOCATION:09 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techniki dochodzeniowe i śledcze - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20260612T114000
+DTEND;TZID=Europe/Warsaw:20260612T131500
+UID:2026_06_12_block3_WCY22KC1S0_Tds@wcy-planner
+DESCRIPTION:Tds (L) 101 65 Czer.Ł.[9]
+LOCATION:101 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techniki dochodzeniowe i śledcze - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20260612T133000
+DTEND;TZID=Europe/Warsaw:20260612T150500
+UID:2026_06_12_block4_WCY22KC1S0_Tds@wcy-planner
+DESCRIPTION:Tds (L) 101 65 Czer.Ł.[10]
+LOCATION:101 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
@@ -7495,5 +7495,80 @@ DTEND;TZID=Europe/Warsaw:20260620T093500
 UID:2026_06_20_block1_WCY22KC1S0_XWF@wcy-planner
 DESCRIPTION:XWF (ć) - -[41]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metody symulacji komputerowej - (egzamin)
+DTSTART;TZID=Europe/Warsaw:20260622T114000
+DTEND;TZID=Europe/Warsaw:20260622T131500
+UID:2026_06_22_block3_WCY22KC1S0_MeSK@wcy-planner
+DESCRIPTION:MeSK (E) 314 S Na[1]
+LOCATION:314 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metody symulacji komputerowej - (egzamin)
+DTSTART;TZID=Europe/Warsaw:20260622T133000
+DTEND;TZID=Europe/Warsaw:20260622T150500
+UID:2026_06_22_block4_WCY22KC1S0_MeSK@wcy-planner
+DESCRIPTION:MeSK (E) 314 S Na[2]
+LOCATION:314 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych - (egzam
+ in)
+DTSTART;TZID=Europe/Warsaw:20260626T114000
+DTEND;TZID=Europe/Warsaw:20260626T131500
+UID:2026_06_26_block3_WCY22KC1S0_Pwst@wcy-planner
+DESCRIPTION:Pwst (E) 120 65 Sta[1]
+LOCATION:120 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych - (egzam
+ in)
+DTSTART;TZID=Europe/Warsaw:20260626T133000
+DTEND;TZID=Europe/Warsaw:20260626T150500
+UID:2026_06_26_block4_WCY22KC1S0_Pwst@wcy-planner
+DESCRIPTION:Pwst (E) 120 65 Sta[2]
+LOCATION:120 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie sieciami teleinformatycznymi - (egzamin)
+DTSTART;TZID=Europe/Warsaw:20260629T114000
+DTEND;TZID=Europe/Warsaw:20260629T131500
+UID:2026_06_29_block3_WCY22KC1S0_Zt@wcy-planner
+DESCRIPTION:Zt (E) 314 S Ml[1]
+LOCATION:314 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie sieciami teleinformatycznymi - (egzamin)
+DTSTART;TZID=Europe/Warsaw:20260629T133000
+DTEND;TZID=Europe/Warsaw:20260629T150500
+UID:2026_06_29_block4_WCY22KC1S0_Zt@wcy-planner
+DESCRIPTION:Zt (E) 314 S Ml[2]
+LOCATION:314 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych - (egzam
+ in poprawkowy)
+DTSTART;TZID=Europe/Warsaw:20260914T095000
+DTEND;TZID=Europe/Warsaw:20260914T112500
+UID:2026_09_14_block2_WCY22KC1S0_Pwst@wcy-planner
+DESCRIPTION:Pwst (Inne) 120 65 Sta[1]
+LOCATION:120 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie sieciami teleinformatycznymi - (egzamin poprawkowy)
+DTSTART;TZID=Europe/Warsaw:20260928T080000
+DTEND;TZID=Europe/Warsaw:20260928T093500
+UID:2026_09_28_block1_WCY22KC1S0_Zt@wcy-planner
+DESCRIPTION:Zt (Inne) 314 S Ml[1]
+LOCATION:314 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metody symulacji komputerowej - (egzamin poprawkowy)
+DTSTART;TZID=Europe/Warsaw:20260928T114000
+DTEND;TZID=Europe/Warsaw:20260928T131500
+UID:2026_09_28_block3_WCY22KC1S0_MeSK@wcy-planner
+DESCRIPTION:MeSK (Inne) 314 S Na[1]
+LOCATION:314 S
 END:VEVENT
 END:VCALENDAR
