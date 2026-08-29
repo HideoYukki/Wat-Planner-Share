@@ -8003,9 +8003,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych - (egzam
  in poprawkowy)
-DTSTART;TZID=Europe/Warsaw:20260914T095000
-DTEND;TZID=Europe/Warsaw:20260914T112500
-UID:2026_09_14_block2_WCY22KC1S0_Projektowanie_i_wytwarzanie_systemów_tel
+DTSTART;TZID=Europe/Warsaw:20260921T095000
+DTEND;TZID=Europe/Warsaw:20260921T112500
+UID:2026_09_21_block2_WCY22KC1S0_Projektowanie_i_wytwarzanie_systemów_tel
  @wcy-planner
 DESCRIPTION:Pwst (Inne) 120 65 Sta[1]
 LOCATION:120 65
