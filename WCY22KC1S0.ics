@@ -8028,4 +8028,2264 @@ UID:2026_09_28_block3_WCY22KC1S0_Metody_symulacji_komputerowej_-@wcy-plann
 DESCRIPTION:MeSK (Inne) 314 S Na[1]
 LOCATION:314 S
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wszystkie przedmioty prowadzącego - (zal popr)
+DTSTART;TZID=Europe/Warsaw:20260929T133000
+DTEND;TZID=Europe/Warsaw:20260929T150500
+UID:2026_09_29_block4_WCY22KC1S0_Wszystkie_przedmioty_prowadzącego_-@wcy-
+ planner
+DESCRIPTION:Wpp (Inne) 106 65 Pa[4]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wszystkie przedmioty prowadzącego - (zal popr)
+DTSTART;TZID=Europe/Warsaw:20260929T133000
+DTEND;TZID=Europe/Warsaw:20260929T150500
+UID:2026_09_29_block4_WCY22KC1S0_Wszystkie_przedmioty_prowadzącego_-@wcy-
+ planner
+DESCRIPTION:Wpp (Inne) 106 65 SW[2]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261001T080000
+DTEND;TZID=Europe/Warsaw:20261001T093500
+UID:2026_10_01_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [91]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261001T095000
+DTEND;TZID=Europe/Warsaw:20261001T112500
+UID:2026_10_01_block2_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
+DESCRIPTION:SzS (ć) ST.nr 1(KSP) -[15]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261001T114000
+DTEND;TZID=Europe/Warsaw:20261001T131500
+UID:2026_10_01_block3_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
+DESCRIPTION:SzS (ć) ST.nr 1(KSP) -[16]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261001T133000
+DTEND;TZID=Europe/Warsaw:20261001T150500
+UID:2026_10_01_block4_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261001T194000
+DTEND;TZID=Europe/Warsaw:20261001T211500
+UID:2026_10_01_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261002T114000
+DTEND;TZID=Europe/Warsaw:20261002T131500
+UID:2026_10_02_block3_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 09 65 Sta[1]
+LOCATION:09 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261002T133000
+DTEND;TZID=Europe/Warsaw:20261002T150500
+UID:2026_10_02_block4_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 09 65 Sta[2]
+LOCATION:09 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261002T160000
+DTEND;TZID=Europe/Warsaw:20261002T173500
+UID:2026_10_02_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (w) 307 S GŁ[1]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261003T095000
+DTEND;TZID=Europe/Warsaw:20261003T112500
+UID:2026_10_03_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[42]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261005T095000
+DTEND;TZID=Europe/Warsaw:20261005T112500
+UID:2026_10_05_block2_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (w) 307 S Fu[1]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261005T160000
+DTEND;TZID=Europe/Warsaw:20261005T173500
+UID:2026_10_05_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[91]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261006T095000
+DTEND;TZID=Europe/Warsaw:20261006T112500
+UID:2026_10_06_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (w) 307 S Zie[1]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261006T114000
+DTEND;TZID=Europe/Warsaw:20261006T131500
+UID:2026_10_06_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [92]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261006T133000
+DTEND;TZID=Europe/Warsaw:20261006T150500
+UID:2026_10_06_block4_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 09 65 Sta[3]
+LOCATION:09 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261006T160000
+DTEND;TZID=Europe/Warsaw:20261006T173500
+UID:2026_10_06_block5_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 09 65 Sta[4]
+LOCATION:09 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261007T080000
+DTEND;TZID=Europe/Warsaw:20261007T093500
+UID:2026_10_07_block1_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 4 [1]
+LOCATION:AW 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261007T095000
+DTEND;TZID=Europe/Warsaw:20261007T112500
+UID:2026_10_07_block2_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 4 [2]
+LOCATION:AW 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261007T114000
+DTEND;TZID=Europe/Warsaw:20261007T131500
+UID:2026_10_07_block3_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 4 [3]
+LOCATION:AW 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261007T133000
+DTEND;TZID=Europe/Warsaw:20261007T150500
+UID:2026_10_07_block4_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) - -[92]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261007T160000
+DTEND;TZID=Europe/Warsaw:20261007T173500
+UID:2026_10_07_block5_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 317 S Żor[1]
+LOCATION:317 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261007T175000
+DTEND;TZID=Europe/Warsaw:20261007T192500
+UID:2026_10_07_block6_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 317 S Żor[2]
+LOCATION:317 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261008T080000
+DTEND;TZID=Europe/Warsaw:20261008T093500
+UID:2026_10_08_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [93]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261008T095000
+DTEND;TZID=Europe/Warsaw:20261008T112500
+UID:2026_10_08_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 09 65 MeM[1]
+LOCATION:09 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261008T114000
+DTEND;TZID=Europe/Warsaw:20261008T131500
+UID:2026_10_08_block3_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 09 65 MeM[2]
+LOCATION:09 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261008T194000
+DTEND;TZID=Europe/Warsaw:20261008T211500
+UID:2026_10_08_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261009T095000
+DTEND;TZID=Europe/Warsaw:20261009T112500
+UID:2026_10_09_block2_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (w) 307 S Czer.Ł.[1]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261009T114000
+DTEND;TZID=Europe/Warsaw:20261009T131500
+UID:2026_10_09_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [94]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261010T095000
+DTEND;TZID=Europe/Warsaw:20261010T112500
+UID:2026_10_10_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[43]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261012T095000
+DTEND;TZID=Europe/Warsaw:20261012T112500
+UID:2026_10_12_block2_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (w) 307 S Fu[2]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261012T114000
+DTEND;TZID=Europe/Warsaw:20261012T131500
+UID:2026_10_12_block3_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 314 S Żor[3]
+LOCATION:314 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261012T133000
+DTEND;TZID=Europe/Warsaw:20261012T150500
+UID:2026_10_12_block4_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 314 S Żor[4]
+LOCATION:314 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261012T160000
+DTEND;TZID=Europe/Warsaw:20261012T173500
+UID:2026_10_12_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[93]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261013T095000
+DTEND;TZID=Europe/Warsaw:20261013T112500
+UID:2026_10_13_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (w) 307 S Zie[2]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261013T114000
+DTEND;TZID=Europe/Warsaw:20261013T131500
+UID:2026_10_13_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [95]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261013T133000
+DTEND;TZID=Europe/Warsaw:20261013T150500
+UID:2026_10_13_block4_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 011 65 Sta[5]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261013T160000
+DTEND;TZID=Europe/Warsaw:20261013T173500
+UID:2026_10_13_block5_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 011 65 Sta[6]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261015T080000
+DTEND;TZID=Europe/Warsaw:20261015T093500
+UID:2026_10_15_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [96]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261015T095000
+DTEND;TZID=Europe/Warsaw:20261015T112500
+UID:2026_10_15_block2_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[1]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261015T114000
+DTEND;TZID=Europe/Warsaw:20261015T131500
+UID:2026_10_15_block3_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[2]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261015T133000
+DTEND;TZID=Europe/Warsaw:20261015T150500
+UID:2026_10_15_block4_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 4 [4]
+LOCATION:AW 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261015T160000
+DTEND;TZID=Europe/Warsaw:20261015T173500
+UID:2026_10_15_block5_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 4 [5]
+LOCATION:AW 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261015T175000
+DTEND;TZID=Europe/Warsaw:20261015T192500
+UID:2026_10_15_block6_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 4 [6]
+LOCATION:AW 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261015T194000
+DTEND;TZID=Europe/Warsaw:20261015T211500
+UID:2026_10_15_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261016T095000
+DTEND;TZID=Europe/Warsaw:20261016T112500
+UID:2026_10_16_block2_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (w) 307 S SŁ[1]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261016T114000
+DTEND;TZID=Europe/Warsaw:20261016T131500
+UID:2026_10_16_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [97]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261016T160000
+DTEND;TZID=Europe/Warsaw:20261016T173500
+UID:2026_10_16_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (w) 307 S GŁ[2]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261017T095000
+DTEND;TZID=Europe/Warsaw:20261017T112500
+UID:2026_10_17_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[44]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261019T114000
+DTEND;TZID=Europe/Warsaw:20261019T131500
+UID:2026_10_19_block3_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 011 65 Sta[7]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261019T133000
+DTEND;TZID=Europe/Warsaw:20261019T150500
+UID:2026_10_19_block4_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 011 65 Sta[8]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261019T160000
+DTEND;TZID=Europe/Warsaw:20261019T173500
+UID:2026_10_19_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[94]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261020T095000
+DTEND;TZID=Europe/Warsaw:20261020T112500
+UID:2026_10_20_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (w) 307 S Zie[3]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261020T114000
+DTEND;TZID=Europe/Warsaw:20261020T131500
+UID:2026_10_20_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [98]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261020T133000
+DTEND;TZID=Europe/Warsaw:20261020T150500
+UID:2026_10_20_block4_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (w) 203 65 Ar[1]
+LOCATION:203 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261020T160000
+DTEND;TZID=Europe/Warsaw:20261020T173500
+UID:2026_10_20_block5_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (P) 239 S Kro[1]
+LOCATION:239 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261020T175000
+DTEND;TZID=Europe/Warsaw:20261020T192500
+UID:2026_10_20_block6_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (P) 239 S Kro[2]
+LOCATION:239 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261021T080000
+DTEND;TZID=Europe/Warsaw:20261021T093500
+UID:2026_10_21_block1_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[95]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261021T160000
+DTEND;TZID=Europe/Warsaw:20261021T173500
+UID:2026_10_21_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) - -[96]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261022T080000
+DTEND;TZID=Europe/Warsaw:20261022T093500
+UID:2026_10_22_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [99]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topografia wojskowa (wykład)
+DTSTART;TZID=Europe/Warsaw:20261022T095000
+DTEND;TZID=Europe/Warsaw:20261022T112500
+UID:2026_10_22_block2_WCY22KC1S0_Topografia_wojskowa@wcy-planner
+DESCRIPTION:TW (w) 17 57 [1]
+LOCATION:17 57
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topografia wojskowa (wykład)
+DTSTART;TZID=Europe/Warsaw:20261022T114000
+DTEND;TZID=Europe/Warsaw:20261022T131500
+UID:2026_10_22_block3_WCY22KC1S0_Topografia_wojskowa@wcy-planner
+DESCRIPTION:TW (w) 17 57 [2]
+LOCATION:17 57
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regulaminy SZ RP (wykład)
+DTSTART;TZID=Europe/Warsaw:20261022T133000
+DTEND;TZID=Europe/Warsaw:20261022T150500
+UID:2026_10_22_block4_WCY22KC1S0_Regulaminy_SZ_RP@wcy-planner
+DESCRIPTION:REG (w) 103 K [2]
+LOCATION:103 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261022T194000
+DTEND;TZID=Europe/Warsaw:20261022T211500
+UID:2026_10_22_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261023T095000
+DTEND;TZID=Europe/Warsaw:20261023T112500
+UID:2026_10_23_block2_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (w) 307 S SŁ[2]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261023T114000
+DTEND;TZID=Europe/Warsaw:20261023T131500
+UID:2026_10_23_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [100]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261023T160000
+DTEND;TZID=Europe/Warsaw:20261023T173500
+UID:2026_10_23_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (w) 307 S GŁ[3]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261024T095000
+DTEND;TZID=Europe/Warsaw:20261024T112500
+UID:2026_10_24_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[45]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261026T095000
+DTEND;TZID=Europe/Warsaw:20261026T112500
+UID:2026_10_26_block2_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (w) 307 S Fu[3]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261026T114000
+DTEND;TZID=Europe/Warsaw:20261026T131500
+UID:2026_10_26_block3_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 317 S Żor[5]
+LOCATION:317 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261026T133000
+DTEND;TZID=Europe/Warsaw:20261026T150500
+UID:2026_10_26_block4_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 317 S Żor[6]
+LOCATION:317 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261026T160000
+DTEND;TZID=Europe/Warsaw:20261026T173500
+UID:2026_10_26_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[97]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261027T095000
+DTEND;TZID=Europe/Warsaw:20261027T112500
+UID:2026_10_27_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (w) 307 S Zie[4]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261027T114000
+DTEND;TZID=Europe/Warsaw:20261027T131500
+UID:2026_10_27_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [101]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261027T133000
+DTEND;TZID=Europe/Warsaw:20261027T150500
+UID:2026_10_27_block4_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 106 65 Sta[9]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261027T160000
+DTEND;TZID=Europe/Warsaw:20261027T173500
+UID:2026_10_27_block5_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 106 65 Sta[10]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261028T095000
+DTEND;TZID=Europe/Warsaw:20261028T112500
+UID:2026_10_28_block2_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[98]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261029T080000
+DTEND;TZID=Europe/Warsaw:20261029T093500
+UID:2026_10_29_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [102]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261029T114000
+DTEND;TZID=Europe/Warsaw:20261029T131500
+UID:2026_10_29_block3_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[3]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261029T133000
+DTEND;TZID=Europe/Warsaw:20261029T150500
+UID:2026_10_29_block4_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[4]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261029T194000
+DTEND;TZID=Europe/Warsaw:20261029T211500
+UID:2026_10_29_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261030T114000
+DTEND;TZID=Europe/Warsaw:20261030T131500
+UID:2026_10_30_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [103]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261030T133000
+DTEND;TZID=Europe/Warsaw:20261030T150500
+UID:2026_10_30_block4_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (w) 307 S Czer.Ł.[2]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261030T160000
+DTEND;TZID=Europe/Warsaw:20261030T173500
+UID:2026_10_30_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (w) 307 S GŁ[4]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261031T095000
+DTEND;TZID=Europe/Warsaw:20261031T112500
+UID:2026_10_31_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[46]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261102T080000
+DTEND;TZID=Europe/Warsaw:20261102T093500
+UID:2026_11_02_block1_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (w) 203 65 Ar[2]
+LOCATION:203 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261102T095000
+DTEND;TZID=Europe/Warsaw:20261102T112500
+UID:2026_11_02_block2_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (w) 307 S Fu[4]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
+  (wykład)
+DTSTART;TZID=Europe/Warsaw:20261102T114000
+DTEND;TZID=Europe/Warsaw:20261102T131500
+UID:2026_11_02_block3_WCY22KC1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
+ @wcy-planner
+DESCRIPTION:wzbnim (w) 19 36 [1]
+LOCATION:19 36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261102T160000
+DTEND;TZID=Europe/Warsaw:20261102T173500
+UID:2026_11_02_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[99]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261103T080000
+DTEND;TZID=Europe/Warsaw:20261103T093500
+UID:2026_11_03_block1_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (w) 307 S Ar[3]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261103T095000
+DTEND;TZID=Europe/Warsaw:20261103T112500
+UID:2026_11_03_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (w) 307 S Zie[5]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261103T114000
+DTEND;TZID=Europe/Warsaw:20261103T131500
+UID:2026_11_03_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [104]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261103T133000
+DTEND;TZID=Europe/Warsaw:20261103T150500
+UID:2026_11_03_block4_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 106 65 Sta[11]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261103T160000
+DTEND;TZID=Europe/Warsaw:20261103T173500
+UID:2026_11_03_block5_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 106 65 Sta[12]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261104T080000
+DTEND;TZID=Europe/Warsaw:20261104T093500
+UID:2026_11_04_block1_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[100]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
+  (wykład)
+DTSTART;TZID=Europe/Warsaw:20261104T095000
+DTEND;TZID=Europe/Warsaw:20261104T112500
+UID:2026_11_04_block2_WCY22KC1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
+ @wcy-planner
+DESCRIPTION:wzbnim (w) 19 36 [2]
+LOCATION:19 36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261104T114000
+DTEND;TZID=Europe/Warsaw:20261104T131500
+UID:2026_11_04_block3_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (L) 011 65 Żor[1]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261104T133000
+DTEND;TZID=Europe/Warsaw:20261104T150500
+UID:2026_11_04_block4_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (L) 011 65 Żor[2]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261105T114000
+DTEND;TZID=Europe/Warsaw:20261105T131500
+UID:2026_11_05_block3_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261105T133000
+DTEND;TZID=Europe/Warsaw:20261105T150500
+UID:2026_11_05_block4_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
+DESCRIPTION:SzS (ć) ST.nr 1(PWC3) -[17]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261105T160000
+DTEND;TZID=Europe/Warsaw:20261105T173500
+UID:2026_11_05_block5_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
+DESCRIPTION:SzS (ć) ST.nr 1(PWC3) -[18]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261105T175000
+DTEND;TZID=Europe/Warsaw:20261105T192500
+UID:2026_11_05_block6_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261105T194000
+DTEND;TZID=Europe/Warsaw:20261105T211500
+UID:2026_11_05_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261106T095000
+DTEND;TZID=Europe/Warsaw:20261106T112500
+UID:2026_11_06_block2_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (w) 307 S SŁ[3]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261106T114000
+DTEND;TZID=Europe/Warsaw:20261106T131500
+UID:2026_11_06_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [105]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261106T133000
+DTEND;TZID=Europe/Warsaw:20261106T150500
+UID:2026_11_06_block4_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 201 65 MeM[3]
+LOCATION:201 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261106T160000
+DTEND;TZID=Europe/Warsaw:20261106T173500
+UID:2026_11_06_block5_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 201 65 MeM[4]
+LOCATION:201 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261107T095000
+DTEND;TZID=Europe/Warsaw:20261107T112500
+UID:2026_11_07_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[47]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261109T095000
+DTEND;TZID=Europe/Warsaw:20261109T112500
+UID:2026_11_09_block2_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (w) 307 S Fu[5]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
+  (wykład)
+DTSTART;TZID=Europe/Warsaw:20261109T114000
+DTEND;TZID=Europe/Warsaw:20261109T131500
+UID:2026_11_09_block3_WCY22KC1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
+ @wcy-planner
+DESCRIPTION:wzbnim (w) 19 36 [3]
+LOCATION:19 36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261109T160000
+DTEND;TZID=Europe/Warsaw:20261109T173500
+UID:2026_11_09_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[101]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261110T080000
+DTEND;TZID=Europe/Warsaw:20261110T093500
+UID:2026_11_10_block1_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (w) 203 65 Ar[4]
+LOCATION:203 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261110T095000
+DTEND;TZID=Europe/Warsaw:20261110T112500
+UID:2026_11_10_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (w) 307 S Zie[6]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261110T114000
+DTEND;TZID=Europe/Warsaw:20261110T131500
+UID:2026_11_10_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [106]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261112T080000
+DTEND;TZID=Europe/Warsaw:20261112T093500
+UID:2026_11_12_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [107]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regulaminy SZ RP (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261112T095000
+DTEND;TZID=Europe/Warsaw:20261112T112500
+UID:2026_11_12_block2_WCY22KC1S0_Regulaminy_SZ_RP@wcy-planner
+DESCRIPTION:REG (ć) AW 7 [4]
+LOCATION:AW 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topografia wojskowa (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261112T114000
+DTEND;TZID=Europe/Warsaw:20261112T131500
+UID:2026_11_12_block3_WCY22KC1S0_Topografia_wojskowa@wcy-planner
+DESCRIPTION:TW (ć) 17 57 [1]
+LOCATION:17 57
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topografia wojskowa (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261112T133000
+DTEND;TZID=Europe/Warsaw:20261112T150500
+UID:2026_11_12_block4_WCY22KC1S0_Topografia_wojskowa@wcy-planner
+DESCRIPTION:TW (ć) 17 57 [2]
+LOCATION:17 57
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261112T160000
+DTEND;TZID=Europe/Warsaw:20261112T173500
+UID:2026_11_12_block5_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 106 65 Sta[13]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261112T175000
+DTEND;TZID=Europe/Warsaw:20261112T192500
+UID:2026_11_12_block6_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 106 65 Sta[14]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261112T194000
+DTEND;TZID=Europe/Warsaw:20261112T211500
+UID:2026_11_12_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261113T095000
+DTEND;TZID=Europe/Warsaw:20261113T112500
+UID:2026_11_13_block2_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (w) 307 S SŁ[4]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261113T114000
+DTEND;TZID=Europe/Warsaw:20261113T131500
+UID:2026_11_13_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [108]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261113T133000
+DTEND;TZID=Europe/Warsaw:20261113T150500
+UID:2026_11_13_block4_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[5]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261113T160000
+DTEND;TZID=Europe/Warsaw:20261113T173500
+UID:2026_11_13_block5_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[6]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261114T095000
+DTEND;TZID=Europe/Warsaw:20261114T112500
+UID:2026_11_14_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[48]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261116T095000
+DTEND;TZID=Europe/Warsaw:20261116T112500
+UID:2026_11_16_block2_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (w) 307 S Fu[6]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
+  (wykład)
+DTSTART;TZID=Europe/Warsaw:20261116T114000
+DTEND;TZID=Europe/Warsaw:20261116T131500
+UID:2026_11_16_block3_WCY22KC1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
+ @wcy-planner
+DESCRIPTION:wzbnim (w) 19 36 [4]
+LOCATION:19 36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
+  (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261116T133000
+DTEND;TZID=Europe/Warsaw:20261116T150500
+UID:2026_11_16_block4_WCY22KC1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
+ @wcy-planner
+DESCRIPTION:wzbnim (ć) 201 65 [1]
+LOCATION:201 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261116T160000
+DTEND;TZID=Europe/Warsaw:20261116T173500
+UID:2026_11_16_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[102]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261117T080000
+DTEND;TZID=Europe/Warsaw:20261117T093500
+UID:2026_11_17_block1_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (w) 203 65 Ar[5]
+LOCATION:203 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261117T095000
+DTEND;TZID=Europe/Warsaw:20261117T112500
+UID:2026_11_17_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (w) 307 S Zie[7]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261117T114000
+DTEND;TZID=Europe/Warsaw:20261117T131500
+UID:2026_11_17_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [109]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261118T095000
+DTEND;TZID=Europe/Warsaw:20261118T112500
+UID:2026_11_18_block2_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[103]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261118T133000
+DTEND;TZID=Europe/Warsaw:20261118T150500
+UID:2026_11_18_block4_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 317 S Żor[7]
+LOCATION:317 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261118T160000
+DTEND;TZID=Europe/Warsaw:20261118T173500
+UID:2026_11_18_block5_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 317 S Żor[8]
+LOCATION:317 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261119T080000
+DTEND;TZID=Europe/Warsaw:20261119T093500
+UID:2026_11_19_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [110]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261119T160000
+DTEND;TZID=Europe/Warsaw:20261119T173500
+UID:2026_11_19_block5_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 125 65 Sta[15]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261119T175000
+DTEND;TZID=Europe/Warsaw:20261119T192500
+UID:2026_11_19_block6_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 125 65 Sta[16]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261119T194000
+DTEND;TZID=Europe/Warsaw:20261119T211500
+UID:2026_11_19_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261120T095000
+DTEND;TZID=Europe/Warsaw:20261120T112500
+UID:2026_11_20_block2_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (w) 307 S SŁ[5]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261120T114000
+DTEND;TZID=Europe/Warsaw:20261120T131500
+UID:2026_11_20_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [111]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261120T133000
+DTEND;TZID=Europe/Warsaw:20261120T150500
+UID:2026_11_20_block4_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (w) 307 S Czer.Ł.[3]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261121T095000
+DTEND;TZID=Europe/Warsaw:20261121T112500
+UID:2026_11_21_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[49]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261123T133000
+DTEND;TZID=Europe/Warsaw:20261123T150500
+UID:2026_11_23_block4_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (w) 203 65 Ar[6]
+LOCATION:203 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261123T160000
+DTEND;TZID=Europe/Warsaw:20261123T173500
+UID:2026_11_23_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[104]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261124T095000
+DTEND;TZID=Europe/Warsaw:20261124T112500
+UID:2026_11_24_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (w) 307 S Zie[8]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261124T114000
+DTEND;TZID=Europe/Warsaw:20261124T131500
+UID:2026_11_24_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [112]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261125T080000
+DTEND;TZID=Europe/Warsaw:20261125T093500
+UID:2026_11_25_block1_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[105]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261125T095000
+DTEND;TZID=Europe/Warsaw:20261125T112500
+UID:2026_11_25_block2_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[106]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261126T080000
+DTEND;TZID=Europe/Warsaw:20261126T093500
+UID:2026_11_26_block1_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
+DESCRIPTION:SzS (ć) ST.nr 1(PWC3) -[19]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261126T095000
+DTEND;TZID=Europe/Warsaw:20261126T112500
+UID:2026_11_26_block2_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
+DESCRIPTION:SzS (ć) ST.nr 1(PWC3) -[20]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261126T114000
+DTEND;TZID=Europe/Warsaw:20261126T131500
+UID:2026_11_26_block3_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261126T133000
+DTEND;TZID=Europe/Warsaw:20261126T150500
+UID:2026_11_26_block4_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261126T194000
+DTEND;TZID=Europe/Warsaw:20261126T211500
+UID:2026_11_26_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261128T095000
+DTEND;TZID=Europe/Warsaw:20261128T112500
+UID:2026_11_28_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[50]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261130T095000
+DTEND;TZID=Europe/Warsaw:20261130T112500
+UID:2026_11_30_block2_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (w) 307 S Kacz.K[1]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261130T114000
+DTEND;TZID=Europe/Warsaw:20261130T131500
+UID:2026_11_30_block3_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (w) 307 S Kacz.K[2]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261130T160000
+DTEND;TZID=Europe/Warsaw:20261130T173500
+UID:2026_11_30_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[107]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261201T080000
+DTEND;TZID=Europe/Warsaw:20261201T093500
+UID:2026_12_01_block1_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (L) 011 65 Ar[1]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261201T095000
+DTEND;TZID=Europe/Warsaw:20261201T112500
+UID:2026_12_01_block2_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (L) 011 65 Ar[2]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261201T114000
+DTEND;TZID=Europe/Warsaw:20261201T131500
+UID:2026_12_01_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [113]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261202T080000
+DTEND;TZID=Europe/Warsaw:20261202T093500
+UID:2026_12_02_block1_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[108]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261202T095000
+DTEND;TZID=Europe/Warsaw:20261202T112500
+UID:2026_12_02_block2_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[109]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261202T160000
+DTEND;TZID=Europe/Warsaw:20261202T173500
+UID:2026_12_02_block5_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 317 S Żor[9]
+LOCATION:317 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261202T175000
+DTEND;TZID=Europe/Warsaw:20261202T192500
+UID:2026_12_02_block6_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (w) 317 S Żor[10]
+LOCATION:317 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261203T080000
+DTEND;TZID=Europe/Warsaw:20261203T093500
+UID:2026_12_03_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [114]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261203T133000
+DTEND;TZID=Europe/Warsaw:20261203T150500
+UID:2026_12_03_block4_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 125 65 Sta[17]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261203T160000
+DTEND;TZID=Europe/Warsaw:20261203T173500
+UID:2026_12_03_block5_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 125 65 Sta[18]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261203T194000
+DTEND;TZID=Europe/Warsaw:20261203T211500
+UID:2026_12_03_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261204T095000
+DTEND;TZID=Europe/Warsaw:20261204T112500
+UID:2026_12_04_block2_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (w) 307 S SŁ[6]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261204T114000
+DTEND;TZID=Europe/Warsaw:20261204T131500
+UID:2026_12_04_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [115]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261204T133000
+DTEND;TZID=Europe/Warsaw:20261204T150500
+UID:2026_12_04_block4_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[7]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261204T160000
+DTEND;TZID=Europe/Warsaw:20261204T173500
+UID:2026_12_04_block5_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[8]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261205T095000
+DTEND;TZID=Europe/Warsaw:20261205T112500
+UID:2026_12_05_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[51]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261207T095000
+DTEND;TZID=Europe/Warsaw:20261207T112500
+UID:2026_12_07_block2_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (w) 307 S Kacz.K[3]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261207T114000
+DTEND;TZID=Europe/Warsaw:20261207T131500
+UID:2026_12_07_block3_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (w) 307 S Kacz.K[4]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
+  (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261207T133000
+DTEND;TZID=Europe/Warsaw:20261207T150500
+UID:2026_12_07_block4_WCY22KC1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
+ @wcy-planner
+DESCRIPTION:wzbnim (ć) 201 65 [2]
+LOCATION:201 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261207T160000
+DTEND;TZID=Europe/Warsaw:20261207T173500
+UID:2026_12_07_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[110]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261208T095000
+DTEND;TZID=Europe/Warsaw:20261208T112500
+UID:2026_12_08_block2_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (w) 203 65 Ar[7]
+LOCATION:203 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261208T114000
+DTEND;TZID=Europe/Warsaw:20261208T131500
+UID:2026_12_08_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [116]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261210T080000
+DTEND;TZID=Europe/Warsaw:20261210T093500
+UID:2026_12_10_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [117]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topografia wojskowa (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261210T095000
+DTEND;TZID=Europe/Warsaw:20261210T112500
+UID:2026_12_10_block2_WCY22KC1S0_Topografia_wojskowa@wcy-planner
+DESCRIPTION:TW (ć) 17 57 [3]
+LOCATION:17 57
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topografia wojskowa (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261210T114000
+DTEND;TZID=Europe/Warsaw:20261210T131500
+UID:2026_12_10_block3_WCY22KC1S0_Topografia_wojskowa@wcy-planner
+DESCRIPTION:TW (ć) 17 57 [4]
+LOCATION:17 57
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261210T194000
+DTEND;TZID=Europe/Warsaw:20261210T211500
+UID:2026_12_10_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261211T095000
+DTEND;TZID=Europe/Warsaw:20261211T112500
+UID:2026_12_11_block2_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (w) 307 S SŁ[7]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261211T114000
+DTEND;TZID=Europe/Warsaw:20261211T131500
+UID:2026_12_11_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [118]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261211T133000
+DTEND;TZID=Europe/Warsaw:20261211T150500
+UID:2026_12_11_block4_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 239 S MeM[5]
+LOCATION:239 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261211T160000
+DTEND;TZID=Europe/Warsaw:20261211T173500
+UID:2026_12_11_block5_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 239 S MeM[6]
+LOCATION:239 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261212T095000
+DTEND;TZID=Europe/Warsaw:20261212T112500
+UID:2026_12_12_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[52]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261214T095000
+DTEND;TZID=Europe/Warsaw:20261214T112500
+UID:2026_12_14_block2_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (w) 307 S Kacz.K[5]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261214T114000
+DTEND;TZID=Europe/Warsaw:20261214T131500
+UID:2026_12_14_block3_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (w) 307 S Kacz.K[6]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
+  (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261214T133000
+DTEND;TZID=Europe/Warsaw:20261214T150500
+UID:2026_12_14_block4_WCY22KC1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
+ @wcy-planner
+DESCRIPTION:wzbnim (ć) 201 65 [3]
+LOCATION:201 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261214T160000
+DTEND;TZID=Europe/Warsaw:20261214T173500
+UID:2026_12_14_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[111]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261215T114000
+DTEND;TZID=Europe/Warsaw:20261215T131500
+UID:2026_12_15_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [119]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261215T160000
+DTEND;TZID=Europe/Warsaw:20261215T173500
+UID:2026_12_15_block5_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (P) 011 65 Kro[3]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261215T175000
+DTEND;TZID=Europe/Warsaw:20261215T192500
+UID:2026_12_15_block6_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (P) 011 65 Kro[4]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261216T095000
+DTEND;TZID=Europe/Warsaw:20261216T112500
+UID:2026_12_16_block2_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[112]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261216T133000
+DTEND;TZID=Europe/Warsaw:20261216T150500
+UID:2026_12_16_block4_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 4 [7]
+LOCATION:AW 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261216T160000
+DTEND;TZID=Europe/Warsaw:20261216T173500
+UID:2026_12_16_block5_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 4 [8]
+LOCATION:AW 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261216T175000
+DTEND;TZID=Europe/Warsaw:20261216T192500
+UID:2026_12_16_block6_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 4 [9]
+LOCATION:AW 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261217T080000
+DTEND;TZID=Europe/Warsaw:20261217T093500
+UID:2026_12_17_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [120]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261217T095000
+DTEND;TZID=Europe/Warsaw:20261217T112500
+UID:2026_12_17_block2_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
+DESCRIPTION:SzS (ć) ST.nr 1(PWC3) -[21]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261217T114000
+DTEND;TZID=Europe/Warsaw:20261217T131500
+UID:2026_12_17_block3_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
+DESCRIPTION:SzS (ć) ST.nr 1(PWC3) -[22]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261217T133000
+DTEND;TZID=Europe/Warsaw:20261217T150500
+UID:2026_12_17_block4_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20261217T194000
+DTEND;TZID=Europe/Warsaw:20261217T211500
+UID:2026_12_17_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261218T114000
+DTEND;TZID=Europe/Warsaw:20261218T131500
+UID:2026_12_18_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [121]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261218T133000
+DTEND;TZID=Europe/Warsaw:20261218T150500
+UID:2026_12_18_block4_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[9]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261218T160000
+DTEND;TZID=Europe/Warsaw:20261218T173500
+UID:2026_12_18_block5_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[10]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261219T095000
+DTEND;TZID=Europe/Warsaw:20261219T112500
+UID:2026_12_19_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[53]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261221T095000
+DTEND;TZID=Europe/Warsaw:20261221T112500
+UID:2026_12_21_block2_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (w) 307 S Kacz.K[7]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261221T114000
+DTEND;TZID=Europe/Warsaw:20261221T131500
+UID:2026_12_21_block3_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (w) 307 S Kacz.K[8]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
+  (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261221T133000
+DTEND;TZID=Europe/Warsaw:20261221T150500
+UID:2026_12_21_block4_WCY22KC1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
+ @wcy-planner
+DESCRIPTION:wzbnim (ć) 201 65 [4]
+LOCATION:201 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261221T160000
+DTEND;TZID=Europe/Warsaw:20261221T173500
+UID:2026_12_21_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[113]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261222T080000
+DTEND;TZID=Europe/Warsaw:20261222T093500
+UID:2026_12_22_block1_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (L) 011 65 Ar[3]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261222T095000
+DTEND;TZID=Europe/Warsaw:20261222T112500
+UID:2026_12_22_block2_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (L) 011 65 Ar[4]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261222T114000
+DTEND;TZID=Europe/Warsaw:20261222T131500
+UID:2026_12_22_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [122]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20261223T080000
+DTEND;TZID=Europe/Warsaw:20261223T093500
+UID:2026_12_23_block1_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[114]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261223T095000
+DTEND;TZID=Europe/Warsaw:20261223T112500
+UID:2026_12_23_block2_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (w) 313 S SŁ[8]
+LOCATION:313 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261223T114000
+DTEND;TZID=Europe/Warsaw:20261223T131500
+UID:2026_12_23_block3_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[1]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261223T133000
+DTEND;TZID=Europe/Warsaw:20261223T150500
+UID:2026_12_23_block4_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[2]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261223T160000
+DTEND;TZID=Europe/Warsaw:20261223T173500
+UID:2026_12_23_block5_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[3]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261223T175000
+DTEND;TZID=Europe/Warsaw:20261223T192500
+UID:2026_12_23_block6_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[4]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270107T080000
+DTEND;TZID=Europe/Warsaw:20270107T093500
+UID:2027_01_07_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [123]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20270107T194000
+DTEND;TZID=Europe/Warsaw:20270107T211500
+UID:2027_01_07_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270108T114000
+DTEND;TZID=Europe/Warsaw:20270108T131500
+UID:2027_01_08_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [124]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270108T133000
+DTEND;TZID=Europe/Warsaw:20270108T150500
+UID:2027_01_08_block4_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 011 65 Sta[19]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270108T160000
+DTEND;TZID=Europe/Warsaw:20270108T173500
+UID:2027_01_08_block5_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 011 65 Sta[20]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270109T095000
+DTEND;TZID=Europe/Warsaw:20270109T112500
+UID:2027_01_09_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[54]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270111T160000
+DTEND;TZID=Europe/Warsaw:20270111T173500
+UID:2027_01_11_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[115]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270111T175000
+DTEND;TZID=Europe/Warsaw:20270111T192500
+UID:2027_01_11_block6_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) - -[116]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270112T080000
+DTEND;TZID=Europe/Warsaw:20270112T093500
+UID:2027_01_12_block1_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (L) 011 65 Ar[5]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270112T095000
+DTEND;TZID=Europe/Warsaw:20270112T112500
+UID:2027_01_12_block2_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (L) 011 65 Ar[6]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270112T114000
+DTEND;TZID=Europe/Warsaw:20270112T131500
+UID:2027_01_12_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [125]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270113T095000
+DTEND;TZID=Europe/Warsaw:20270113T112500
+UID:2027_01_13_block2_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[117]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270114T080000
+DTEND;TZID=Europe/Warsaw:20270114T093500
+UID:2027_01_14_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [126]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topografia wojskowa (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270114T095000
+DTEND;TZID=Europe/Warsaw:20270114T112500
+UID:2027_01_14_block2_WCY22KC1S0_Topografia_wojskowa@wcy-planner
+DESCRIPTION:TW (ć) 17 57 [5]
+LOCATION:17 57
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regulaminy SZ RP (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270114T114000
+DTEND;TZID=Europe/Warsaw:20270114T131500
+UID:2027_01_14_block3_WCY22KC1S0_Regulaminy_SZ_RP@wcy-planner
+DESCRIPTION:REG (ć) AW 3/038 [5]
+LOCATION:AW 3/038
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20270114T133000
+DTEND;TZID=Europe/Warsaw:20270114T150500
+UID:2027_01_14_block4_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20270114T194000
+DTEND;TZID=Europe/Warsaw:20270114T211500
+UID:2027_01_14_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270115T133000
+DTEND;TZID=Europe/Warsaw:20270115T150500
+UID:2027_01_15_block4_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 7 [10]
+LOCATION:AW 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270115T160000
+DTEND;TZID=Europe/Warsaw:20270115T173500
+UID:2027_01_15_block5_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 7 [11]
+LOCATION:AW 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270115T175000
+DTEND;TZID=Europe/Warsaw:20270115T192500
+UID:2027_01_15_block6_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 7 [12]
+LOCATION:AW 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270116T095000
+DTEND;TZID=Europe/Warsaw:20270116T112500
+UID:2027_01_16_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[55]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270118T133000
+DTEND;TZID=Europe/Warsaw:20270118T150500
+UID:2027_01_18_block4_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 1 [13]
+LOCATION:AW 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270118T160000
+DTEND;TZID=Europe/Warsaw:20270118T173500
+UID:2027_01_18_block5_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 1 [14]
+LOCATION:AW 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270118T175000
+DTEND;TZID=Europe/Warsaw:20270118T192500
+UID:2027_01_18_block6_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 1 [15]
+LOCATION:AW 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270119T080000
+DTEND;TZID=Europe/Warsaw:20270119T093500
+UID:2027_01_19_block1_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 120 65 Sta[21]
+LOCATION:120 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu cyberobrony - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270119T095000
+DTEND;TZID=Europe/Warsaw:20270119T112500
+UID:2027_01_19_block2_WCY22KC1S0_Projekt_z_zakresu_cyberobrony_-@wcy-plann
+ er
+DESCRIPTION:PCB (P) 120 65 Sta[22]
+LOCATION:120 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270119T114000
+DTEND;TZID=Europe/Warsaw:20270119T131500
+UID:2027_01_19_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [127]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270120T080000
+DTEND;TZID=Europe/Warsaw:20270120T093500
+UID:2027_01_20_block1_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[118]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270121T080000
+DTEND;TZID=Europe/Warsaw:20270121T093500
+UID:2027_01_21_block1_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 7 [16]
+LOCATION:AW 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270121T095000
+DTEND;TZID=Europe/Warsaw:20270121T112500
+UID:2027_01_21_block2_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 7 [17]
+LOCATION:AW 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270121T114000
+DTEND;TZID=Europe/Warsaw:20270121T131500
+UID:2027_01_21_block3_WCY22KC1S0_Zabezpieczenie_medyczne@wcy-planner
+DESCRIPTION:ZaMe (ć) AW 7 [18]
+LOCATION:AW 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20270121T133000
+DTEND;TZID=Europe/Warsaw:20270121T150500
+UID:2027_01_21_block4_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20270121T194000
+DTEND;TZID=Europe/Warsaw:20270121T211500
+UID:2027_01_21_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270122T114000
+DTEND;TZID=Europe/Warsaw:20270122T131500
+UID:2027_01_22_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [128]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XWychowanie fizyczne - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270123T095000
+DTEND;TZID=Europe/Warsaw:20270123T112500
+UID:2027_01_23_block2_WCY22KC1S0_XWychowanie_fizyczne_-@wcy-planner
+DESCRIPTION:XWF (ć) - -[56]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270125T114000
+DTEND;TZID=Europe/Warsaw:20270125T131500
+UID:2027_01_25_block3_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (P) 011 65 Kro[5]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270125T133000
+DTEND;TZID=Europe/Warsaw:20270125T150500
+UID:2027_01_25_block4_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (P) 011 65 Kro[6]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270125T160000
+DTEND;TZID=Europe/Warsaw:20270125T173500
+UID:2027_01_25_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[119]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270126T080000
+DTEND;TZID=Europe/Warsaw:20270126T093500
+UID:2027_01_26_block1_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (L) 011 65 Ar[7]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie mobilne - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270126T095000
+DTEND;TZID=Europe/Warsaw:20270126T112500
+UID:2027_01_26_block2_WCY22KC1S0_Technologie_mobilne_-@wcy-planner
+DESCRIPTION:Temo (L) 011 65 Ar[8]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270126T114000
+DTEND;TZID=Europe/Warsaw:20270126T131500
+UID:2027_01_26_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [129]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270127T080000
+DTEND;TZID=Europe/Warsaw:20270127T093500
+UID:2027_01_27_block1_WCY22KC1S0_Język_angielski_-@wcy-planner
+DESCRIPTION:Ja (ć) 124 K -[120]
+LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270127T114000
+DTEND;TZID=Europe/Warsaw:20270127T131500
+UID:2027_01_27_block3_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (L) 011 65 Żor[3]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20270128T114000
+DTEND;TZID=Europe/Warsaw:20270128T131500
+UID:2027_01_28_block3_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20270128T133000
+DTEND;TZID=Europe/Warsaw:20270128T150500
+UID:2027_01_28_block4_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemy rozproszone - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270128T160000
+DTEND;TZID=Europe/Warsaw:20270128T173500
+UID:2027_01_28_block5_WCY22KC1S0_Systemy_rozproszone_-@wcy-planner
+DESCRIPTION:Sr (P) 237 S Kro[7]
+LOCATION:237 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:- - (studium szkol. wojs.)
+DTSTART;TZID=Europe/Warsaw:20270128T194000
+DTEND;TZID=Europe/Warsaw:20270128T211500
+UID:2027_01_28_block7_WCY22KC1S0_-_-@wcy-planner
+DESCRIPTION:- (S.Sz.W.) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wychowanie fizyczne (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20270129T114000
+DTEND;TZID=Europe/Warsaw:20270129T131500
+UID:2027_01_29_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
+DESCRIPTION:WF (ć) - [130]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270129T133000
+DTEND;TZID=Europe/Warsaw:20270129T150500
+UID:2027_01_29_block4_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 101 65 MeM[7]
+LOCATION:101 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270129T160000
+DTEND;TZID=Europe/Warsaw:20270129T173500
+UID:2027_01_29_block5_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 101 65 MeM[8]
+LOCATION:101 65
+END:VEVENT
 END:VCALENDAR
