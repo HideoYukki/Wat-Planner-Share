@@ -7825,6 +7825,22 @@ DESCRIPTION:Zmwm (w) 308 S OJ[2]
 LOCATION:308 S
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teoria wojny informacyjnej - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261104T160000
+DTEND;TZID=Europe/Warsaw:20261104T173500
+UID:2026_11_04_block5_WCY22KB1S0_Teoria_wojny_informacyjnej_-@wcy-planner
+DESCRIPTION:Twinf (L) 223 S MPe[1]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wf_E - (egzamin)
+DTSTART;TZID=Europe/Warsaw:20261104T175000
+DTEND;TZID=Europe/Warsaw:20261104T192500
+UID:2026_11_04_block6_WCY22KB1S0_Wf_E_-@wcy-planner
+DESCRIPTION:Wf_E (E) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
 DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T131500
@@ -7889,12 +7905,48 @@ DESCRIPTION:WF (ć) - [106]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261106T133000
+DTEND;TZID=Europe/Warsaw:20261106T150500
+UID:2026_11_06_block4_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 224 S OJ[1]
+LOCATION:224 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261106T160000
+DTEND;TZID=Europe/Warsaw:20261106T173500
+UID:2026_11_06_block5_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 224 S OJ[2]
+LOCATION:224 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261107T095000
 DTEND;TZID=Europe/Warsaw:20261107T112500
 UID:2026_11_07_block2_WCY22KB1S0_XWychowanie_fizyczne_-@wcy-planner
 DESCRIPTION:XWF (ć) - -[47]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261109T080000
+DTEND;TZID=Europe/Warsaw:20261109T093500
+UID:2026_11_09_block1_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 224 S GuT[1]
+LOCATION:224 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261109T095000
+DTEND;TZID=Europe/Warsaw:20261109T112500
+UID:2026_11_09_block2_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 224 S GuT[2]
+LOCATION:224 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
@@ -8110,6 +8162,24 @@ DESCRIPTION:Dtu (P) 204 65 MeM[4]
 LOCATION:204 65
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261119T160000
+DTEND;TZID=Europe/Warsaw:20261119T173500
+UID:2026_11_19_block5_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 228 S Maz[1]
+LOCATION:228 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261119T175000
+DTEND;TZID=Europe/Warsaw:20261119T192500
+UID:2026_11_19_block6_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 228 S Maz[2]
+LOCATION:228 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
 DTSTART;TZID=Europe/Warsaw:20261119T194000
 DTEND;TZID=Europe/Warsaw:20261119T211500
@@ -8132,6 +8202,24 @@ DTEND;TZID=Europe/Warsaw:20261120T131500
 UID:2026_11_20_block3_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [112]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261120T133000
+DTEND;TZID=Europe/Warsaw:20261120T150500
+UID:2026_11_20_block4_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 223 S OJ[3]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261120T160000
+DTEND;TZID=Europe/Warsaw:20261120T173500
+UID:2026_11_20_block5_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 223 S OJ[4]
+LOCATION:223 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
@@ -8221,6 +8309,40 @@ DESCRIPTION:Ja (ć) 124 K -[106]
 LOCATION:124 K
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261125T114000
+DTEND;TZID=Europe/Warsaw:20261125T131500
+UID:2026_11_25_block3_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 226 S GuT[3]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261125T133000
+DTEND;TZID=Europe/Warsaw:20261125T150500
+UID:2026_11_25_block4_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 226 S GuT[4]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teoria wojny informacyjnej - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261125T160000
+DTEND;TZID=Europe/Warsaw:20261125T173500
+UID:2026_11_25_block5_WCY22KB1S0_Teoria_wojny_informacyjnej_-@wcy-planner
+DESCRIPTION:Twinf (L) 227 S MPe[2]
+LOCATION:227 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teoria wojny informacyjnej - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261125T175000
+DTEND;TZID=Europe/Warsaw:20261125T192500
+UID:2026_11_25_block6_WCY22KB1S0_Teoria_wojny_informacyjnej_-@wcy-planner
+DESCRIPTION:Twinf (L) 227 S MPe[3]
+LOCATION:227 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261126T080000
 DTEND;TZID=Europe/Warsaw:20261126T093500
@@ -8251,6 +8373,24 @@ DTEND;TZID=Europe/Warsaw:20261126T150500
 UID:2026_11_26_block4_WCY22KB1S0_-_-@wcy-planner
 DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261126T160000
+DTEND;TZID=Europe/Warsaw:20261126T173500
+UID:2026_11_26_block5_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 226 S Maz[3]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261126T175000
+DTEND;TZID=Europe/Warsaw:20261126T192500
+UID:2026_11_26_block6_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 226 S Maz[4]
+LOCATION:226 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
@@ -8293,6 +8433,24 @@ DESCRIPTION:Ja (ć) 124 K -[107]
 LOCATION:124 K
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261201T080000
+DTEND;TZID=Europe/Warsaw:20261201T093500
+UID:2026_12_01_block1_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (w) 313 S GuT[9]
+LOCATION:313 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261201T095000
+DTEND;TZID=Europe/Warsaw:20261201T112500
+UID:2026_12_01_block2_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (w) 313 S GuT[10]
+LOCATION:313 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261201T114000
 DTEND;TZID=Europe/Warsaw:20261201T131500
@@ -8317,12 +8475,48 @@ DESCRIPTION:Ja (ć) 124 K -[109]
 LOCATION:124 K
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261202T114000
+DTEND;TZID=Europe/Warsaw:20261202T131500
+UID:2026_12_02_block3_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 224 S OJ[5]
+LOCATION:224 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261202T133000
+DTEND;TZID=Europe/Warsaw:20261202T150500
+UID:2026_12_02_block4_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 224 S OJ[6]
+LOCATION:224 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261203T080000
 DTEND;TZID=Europe/Warsaw:20261203T093500
 UID:2026_12_03_block1_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [115]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261203T160000
+DTEND;TZID=Europe/Warsaw:20261203T173500
+UID:2026_12_03_block5_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 226 S Maz[5]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261203T175000
+DTEND;TZID=Europe/Warsaw:20261203T192500
+UID:2026_12_03_block6_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 226 S Maz[6]
+LOCATION:226 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
@@ -8373,22 +8567,22 @@ DESCRIPTION:Ja (ć) 124 K -[110]
 LOCATION:124 K
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Technologie Internetu Rzeczy - (wykład)
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20261208T080000
 DTEND;TZID=Europe/Warsaw:20261208T093500
 UID:2026_12_08_block1_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
  r
-DESCRIPTION:IRz (w) 308 S GuT[9]
-LOCATION:308 S
+DESCRIPTION:IRz (L) 226 S GuT[5]
+LOCATION:226 S
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Technologie Internetu Rzeczy - (wykład)
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20261208T095000
 DTEND;TZID=Europe/Warsaw:20261208T112500
 UID:2026_12_08_block2_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
  r
-DESCRIPTION:IRz (w) 308 S GuT[10]
-LOCATION:308 S
+DESCRIPTION:IRz (L) 226 S GuT[6]
+LOCATION:226 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -8421,6 +8615,24 @@ DTEND;TZID=Europe/Warsaw:20261210T131500
 UID:2026_12_10_block3_WCY22KB1S0_Topografia_wojskowa@wcy-planner
 DESCRIPTION:TW (ć) 17 57 [4]
 LOCATION:17 57
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261210T133000
+DTEND;TZID=Europe/Warsaw:20261210T150500
+UID:2026_12_10_block4_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 236 S Maz[7]
+LOCATION:236 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261210T160000
+DTEND;TZID=Europe/Warsaw:20261210T173500
+UID:2026_12_10_block5_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 236 S Maz[8]
+LOCATION:236 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
@@ -8469,6 +8681,22 @@ DTEND;TZID=Europe/Warsaw:20261214T173500
 UID:2026_12_14_block5_WCY22KB1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[111]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teoria wojny informacyjnej - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261215T080000
+DTEND;TZID=Europe/Warsaw:20261215T093500
+UID:2026_12_15_block1_WCY22KB1S0_Teoria_wojny_informacyjnej_-@wcy-planner
+DESCRIPTION:Twinf (L) 233 S MPe[4]
+LOCATION:233 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teoria wojny informacyjnej - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261215T095000
+DTEND;TZID=Europe/Warsaw:20261215T112500
+UID:2026_12_15_block2_WCY22KB1S0_Teoria_wojny_informacyjnej_-@wcy-planner
+DESCRIPTION:Twinf (L) 233 S MPe[5]
+LOCATION:233 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -8543,6 +8771,15 @@ DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261217T160000
+DTEND;TZID=Europe/Warsaw:20261217T173500
+UID:2026_12_17_block5_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 226 S Maz[9]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
 DTSTART;TZID=Europe/Warsaw:20261217T194000
 DTEND;TZID=Europe/Warsaw:20261217T211500
@@ -8557,6 +8794,24 @@ DTEND;TZID=Europe/Warsaw:20261218T131500
 UID:2026_12_18_block3_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [122]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261218T133000
+DTEND;TZID=Europe/Warsaw:20261218T150500
+UID:2026_12_18_block4_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 224 S OJ[7]
+LOCATION:224 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261218T160000
+DTEND;TZID=Europe/Warsaw:20261218T173500
+UID:2026_12_18_block5_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 224 S OJ[8]
+LOCATION:224 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
@@ -8591,22 +8846,22 @@ DESCRIPTION:Ja (ć) 124 K -[113]
 LOCATION:124 K
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20261222T080000
 DTEND;TZID=Europe/Warsaw:20261222T093500
-UID:2026_12_22_block1_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
- y-planner
-DESCRIPTION:Dtu (P) 101 65 MeM[5]
-LOCATION:101 65
+UID:2026_12_22_block1_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 227 S GuT[7]
+LOCATION:227 S
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
 DTSTART;TZID=Europe/Warsaw:20261222T095000
 DTEND;TZID=Europe/Warsaw:20261222T112500
-UID:2026_12_22_block2_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
- y-planner
-DESCRIPTION:Dtu (P) 101 65 MeM[6]
-LOCATION:101 65
+UID:2026_12_22_block2_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 227 S GuT[8]
+LOCATION:227 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -8635,6 +8890,24 @@ DESCRIPTION:wzbnim (ć) 204 65 [3]
 LOCATION:204 65
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261223T114000
+DTEND;TZID=Europe/Warsaw:20261223T131500
+UID:2026_12_23_block3_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 219 65 MeM[5]
+LOCATION:219 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261223T133000
+DTEND;TZID=Europe/Warsaw:20261223T150500
+UID:2026_12_23_block4_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 219 65 MeM[6]
+LOCATION:219 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270107T080000
 DTEND;TZID=Europe/Warsaw:20270107T093500
@@ -8643,12 +8916,48 @@ DESCRIPTION:WF (ć) - [124]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270107T114000
+DTEND;TZID=Europe/Warsaw:20270107T131500
+UID:2027_01_07_block3_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 223 S OJ[9]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zaawansowane metody uczenia maszynowego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270107T133000
+DTEND;TZID=Europe/Warsaw:20270107T150500
+UID:2027_01_07_block4_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
+ wcy-planner
+DESCRIPTION:Zmwm (L) 223 S OJ[10]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
 DTSTART;TZID=Europe/Warsaw:20270107T194000
 DTEND;TZID=Europe/Warsaw:20270107T211500
 UID:2027_01_07_block7_WCY22KB1S0_-_-@wcy-planner
 DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270108T080000
+DTEND;TZID=Europe/Warsaw:20270108T093500
+UID:2027_01_08_block1_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 224 S GuT[9]
+LOCATION:224 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270108T095000
+DTEND;TZID=Europe/Warsaw:20270108T112500
+UID:2027_01_08_block2_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 224 S GuT[10]
+LOCATION:224 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -8805,6 +9114,24 @@ DESCRIPTION:ZaMe (ć) AW 1 [15]
 LOCATION:AW 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270119T080000
+DTEND;TZID=Europe/Warsaw:20270119T093500
+UID:2027_01_19_block1_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 224 S GuT[11]
+LOCATION:224 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270119T095000
+DTEND;TZID=Europe/Warsaw:20270119T112500
+UID:2027_01_19_block2_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 224 S GuT[12]
+LOCATION:224 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270119T114000
 DTEND;TZID=Europe/Warsaw:20270119T131500
@@ -8819,6 +9146,22 @@ DTEND;TZID=Europe/Warsaw:20270120T093500
 UID:2027_01_20_block1_WCY22KB1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[118]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teoria wojny informacyjnej - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270120T114000
+DTEND;TZID=Europe/Warsaw:20270120T131500
+UID:2027_01_20_block3_WCY22KB1S0_Teoria_wojny_informacyjnej_-@wcy-planner
+DESCRIPTION:Twinf (L) 236 S MPe[6]
+LOCATION:236 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teoria wojny informacyjnej - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270120T133000
+DTEND;TZID=Europe/Warsaw:20270120T150500
+UID:2027_01_20_block4_WCY22KB1S0_Teoria_wojny_informacyjnej_-@wcy-planner
+DESCRIPTION:Twinf (L) 236 S MPe[7]
+LOCATION:236 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
@@ -8903,24 +9246,6 @@ DESCRIPTION:Ja (ć) 124 K -[119]
 LOCATION:124 K
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
-DTSTART;TZID=Europe/Warsaw:20270126T080000
-DTEND;TZID=Europe/Warsaw:20270126T093500
-UID:2027_01_26_block1_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
- y-planner
-DESCRIPTION:Dtu (P) 101 65 MeM[7]
-LOCATION:101 65
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
-DTSTART;TZID=Europe/Warsaw:20270126T095000
-DTEND;TZID=Europe/Warsaw:20270126T112500
-UID:2027_01_26_block2_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
- y-planner
-DESCRIPTION:Dtu (P) 101 65 MeM[8]
-LOCATION:101 65
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270126T114000
 DTEND;TZID=Europe/Warsaw:20270126T131500
@@ -8935,6 +9260,24 @@ DTEND;TZID=Europe/Warsaw:20270127T093500
 UID:2027_01_27_block1_WCY22KB1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[120]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270127T114000
+DTEND;TZID=Europe/Warsaw:20270127T131500
+UID:2027_01_27_block3_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 101 65 MeM[7]
+LOCATION:101 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270127T133000
+DTEND;TZID=Europe/Warsaw:20270127T150500
+UID:2027_01_27_block4_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (P) 101 65 MeM[8]
+LOCATION:101 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
