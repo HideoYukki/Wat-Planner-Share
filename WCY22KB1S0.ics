@@ -7434,6 +7434,15 @@ DESCRIPTION:WF (ć) - [96]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261013T133000
+DTEND;TZID=Europe/Warsaw:20261013T150500
+UID:2026_10_13_block4_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 223 S St[1]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261015T080000
 DTEND;TZID=Europe/Warsaw:20261015T093500
@@ -7678,6 +7687,33 @@ DTEND;TZID=Europe/Warsaw:20261027T131500
 UID:2026_10_27_block3_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [102]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261027T133000
+DTEND;TZID=Europe/Warsaw:20261027T150500
+UID:2026_10_27_block4_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 223 S St[2]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261027T160000
+DTEND;TZID=Europe/Warsaw:20261027T173500
+UID:2026_10_27_block5_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 223 S St[3]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261027T175000
+DTEND;TZID=Europe/Warsaw:20261027T192500
+UID:2026_10_27_block6_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 223 S St[4]
+LOCATION:223 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -7992,6 +8028,33 @@ DESCRIPTION:WF (ć) - [107]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261110T133000
+DTEND;TZID=Europe/Warsaw:20261110T150500
+UID:2026_11_10_block4_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 227 S St[5]
+LOCATION:227 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261110T160000
+DTEND;TZID=Europe/Warsaw:20261110T173500
+UID:2026_11_10_block5_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 227 S St[6]
+LOCATION:227 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261110T175000
+DTEND;TZID=Europe/Warsaw:20261110T192500
+UID:2026_11_10_block6_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 227 S St[7]
+LOCATION:227 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261112T080000
 DTEND;TZID=Europe/Warsaw:20261112T093500
@@ -8291,6 +8354,33 @@ DTEND;TZID=Europe/Warsaw:20261124T131500
 UID:2026_11_24_block3_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [113]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261124T133000
+DTEND;TZID=Europe/Warsaw:20261124T150500
+UID:2026_11_24_block4_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 223 S St[8]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261124T160000
+DTEND;TZID=Europe/Warsaw:20261124T173500
+UID:2026_11_24_block5_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 223 S St[9]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261124T175000
+DTEND;TZID=Europe/Warsaw:20261124T192500
+UID:2026_11_24_block6_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 223 S St[10]
+LOCATION:223 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -8593,6 +8683,33 @@ DESCRIPTION:WF (ć) - [117]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261208T133000
+DTEND;TZID=Europe/Warsaw:20261208T150500
+UID:2026_12_08_block4_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 226 S St[11]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261208T160000
+DTEND;TZID=Europe/Warsaw:20261208T173500
+UID:2026_12_08_block5_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 226 S St[12]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261208T175000
+DTEND;TZID=Europe/Warsaw:20261208T192500
+UID:2026_12_08_block6_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 226 S St[13]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261210T080000
 DTEND;TZID=Europe/Warsaw:20261210T093500
@@ -8872,6 +8989,33 @@ DESCRIPTION:WF (ć) - [123]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261222T133000
+DTEND;TZID=Europe/Warsaw:20261222T150500
+UID:2026_12_22_block4_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 226 S St[14]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261222T160000
+DTEND;TZID=Europe/Warsaw:20261222T173500
+UID:2026_12_22_block5_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 226 S St[15]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261222T175000
+DTEND;TZID=Europe/Warsaw:20261222T192500
+UID:2026_12_22_block6_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 226 S St[16]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261223T080000
 DTEND;TZID=Europe/Warsaw:20261223T093500
@@ -8998,6 +9142,33 @@ DTEND;TZID=Europe/Warsaw:20270112T131500
 UID:2027_01_12_block3_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [126]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270112T133000
+DTEND;TZID=Europe/Warsaw:20270112T150500
+UID:2027_01_12_block4_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 228 S St[17]
+LOCATION:228 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270112T160000
+DTEND;TZID=Europe/Warsaw:20270112T173500
+UID:2027_01_12_block5_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 228 S St[18]
+LOCATION:228 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270112T175000
+DTEND;TZID=Europe/Warsaw:20270112T192500
+UID:2027_01_12_block6_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 228 S St[19]
+LOCATION:228 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -9252,6 +9423,33 @@ DTEND;TZID=Europe/Warsaw:20270126T131500
 UID:2027_01_26_block3_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [130]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270126T133000
+DTEND;TZID=Europe/Warsaw:20270126T150500
+UID:2027_01_26_block4_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 226 S St[20]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270126T160000
+DTEND;TZID=Europe/Warsaw:20270126T173500
+UID:2027_01_26_block5_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 226 S St[21]
+LOCATION:226 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt z zakresu bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270126T175000
+DTEND;TZID=Europe/Warsaw:20270126T192500
+UID:2027_01_26_block6_WCY22KB1S0_Projekt_z_zakresu_bezpieczeństwa_informa
+ @wcy-planner
+DESCRIPTION:Pzbi (P) 226 S St[22]
+LOCATION:226 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
