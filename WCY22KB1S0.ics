@@ -2573,6 +2573,15 @@ DESCRIPTION:WF (ć) - [36]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261015T095000
+DTEND;TZID=Europe/Warsaw:20261015T112500
+UID:2026_10_15_block2_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 239 S MeM[1]
+LOCATION:239 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zarządzanie wiedzą - (wykład)
 DTSTART;TZID=Europe/Warsaw:20261015T114000
 DTEND;TZID=Europe/Warsaw:20261015T131500
@@ -2921,6 +2930,15 @@ UID:2026_11_02_block3_WCY22KB1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
  @wcy-planner
 DESCRIPTION:wzbnim (w) 19 36 [1]
 LOCATION:19 36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261102T133000
+DTEND;TZID=Europe/Warsaw:20261102T150500
+UID:2026_11_02_block4_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 121 65 MeM[2]
+LOCATION:121 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -3723,6 +3741,15 @@ DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261204T095000
+DTEND;TZID=Europe/Warsaw:20261204T112500
+UID:2026_12_04_block2_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 239 S MeM[3]
+LOCATION:239 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261204T114000
 DTEND;TZID=Europe/Warsaw:20261204T131500
@@ -3753,6 +3780,15 @@ DTEND;TZID=Europe/Warsaw:20261207T131500
 UID:2026_12_07_block3_WCY22KB1S0_Steganografia_-@wcy-planner
 DESCRIPTION:Stg (w) 307 S Kacz.K[4]
 LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261207T133000
+DTEND;TZID=Europe/Warsaw:20261207T150500
+UID:2026_12_07_block4_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 237 S MeM[4]
+LOCATION:237 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -4327,6 +4363,15 @@ DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270115T114000
+DTEND;TZID=Europe/Warsaw:20270115T131500
+UID:2027_01_15_block3_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 239 S MeM[5]
+LOCATION:239 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270115T133000
 DTEND;TZID=Europe/Warsaw:20270115T150500
@@ -4505,6 +4550,15 @@ DTEND;TZID=Europe/Warsaw:20270125T173500
 UID:2027_01_25_block5_WCY22KB1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[59]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270126T095000
+DTEND;TZID=Europe/Warsaw:20270126T112500
+UID:2027_01_26_block2_WCY22KB1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 239 S MeM[6]
+LOCATION:239 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)

@@ -2591,6 +2591,16 @@ DESCRIPTION:PsbI (w) 307 S GŁ[1]
 LOCATION:307 S
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20261002T175000
+DTEND;TZID=Europe/Warsaw:20261002T192500
+UID:2026_10_02_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 011 65 GŁ[1]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261003T095000
 DTEND;TZID=Europe/Warsaw:20261003T112500
@@ -2605,6 +2615,14 @@ DTEND;TZID=Europe/Warsaw:20261005T112500
 UID:2026_10_05_block2_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
 DESCRIPTION:BsIP (w) 307 S Fu[1]
 LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261005T114000
+DTEND;TZID=Europe/Warsaw:20261005T131500
+UID:2026_10_05_block3_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (P) 121 65 Sk.Ł.[1]
+LOCATION:121 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -2909,6 +2927,15 @@ DESCRIPTION:PsbI (w) 307 S GŁ[2]
 LOCATION:307 S
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261016T175000
+DTEND;TZID=Europe/Warsaw:20261016T192500
+UID:2026_10_16_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (P) 011 65 GŁ[1]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261017T095000
 DTEND;TZID=Europe/Warsaw:20261017T112500
@@ -2992,6 +3019,15 @@ DESCRIPTION:Ja (ć) 124 K -[35]
 LOCATION:124 K
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261021T095000
+DTEND;TZID=Europe/Warsaw:20261021T112500
+UID:2026_10_21_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 106 65 MeM[1]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261021T160000
 DTEND;TZID=Europe/Warsaw:20261021T173500
@@ -3063,6 +3099,16 @@ UID:2026_10_23_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
  n@wcy-planner
 DESCRIPTION:PsbI (w) 307 S GŁ[3]
 LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20261023T175000
+DTEND;TZID=Europe/Warsaw:20261023T192500
+UID:2026_10_23_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 106 65 GŁ[2]
+LOCATION:106 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
@@ -3208,6 +3254,15 @@ DESCRIPTION:PsbI (w) 307 S GŁ[4]
 LOCATION:307 S
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261030T175000
+DTEND;TZID=Europe/Warsaw:20261030T192500
+UID:2026_10_30_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (P) 011 65 GŁ[2]
+LOCATION:011 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261031T095000
 DTEND;TZID=Europe/Warsaw:20261031T112500
@@ -3329,6 +3384,15 @@ DESCRIPTION:TCT (L) 011 65 Żor[2]
 LOCATION:011 65
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261104T160000
+DTEND;TZID=Europe/Warsaw:20261104T173500
+UID:2026_11_04_block5_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 120 65 MeM[2]
+LOCATION:120 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wf_E - (egzamin)
 DTSTART;TZID=Europe/Warsaw:20261104T175000
 DTEND;TZID=Europe/Warsaw:20261104T192500
@@ -3403,6 +3467,16 @@ DESCRIPTION:Dtu (P) 201 65 MeM[4]
 LOCATION:201 65
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20261106T175000
+DTEND;TZID=Europe/Warsaw:20261106T192500
+UID:2026_11_06_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 125 65 GŁ[3]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261107T095000
 DTEND;TZID=Europe/Warsaw:20261107T112500
@@ -3427,6 +3501,14 @@ UID:2026_11_09_block3_WCY22KC1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
  @wcy-planner
 DESCRIPTION:wzbnim (w) 19 36 [3]
 LOCATION:19 36
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261109T133000
+DTEND;TZID=Europe/Warsaw:20261109T150500
+UID:2026_11_09_block4_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
+DESCRIPTION:BsIP (P) 121 65 Sk.Ł.[2]
+LOCATION:121 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -3460,6 +3542,15 @@ DTEND;TZID=Europe/Warsaw:20261110T131500
 UID:2026_11_10_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [46]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261110T160000
+DTEND;TZID=Europe/Warsaw:20261110T173500
+UID:2026_11_10_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (P) 125 65 GŁ[3]
+LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -3619,6 +3710,16 @@ DTEND;TZID=Europe/Warsaw:20261117T131500
 UID:2026_11_17_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [49]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20261117T160000
+DTEND;TZID=Europe/Warsaw:20261117T173500
+UID:2026_11_17_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 125 65 GŁ[4]
+LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -3787,6 +3888,15 @@ DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261126T160000
+DTEND;TZID=Europe/Warsaw:20261126T173500
+UID:2026_11_26_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (P) 125 65 GŁ[4]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
 DTSTART;TZID=Europe/Warsaw:20261126T194000
 DTEND;TZID=Europe/Warsaw:20261126T211500
@@ -3819,12 +3929,31 @@ DESCRIPTION:Stg (w) 307 S Kacz.K[2]
 LOCATION:307 S
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261130T133000
+DTEND;TZID=Europe/Warsaw:20261130T150500
+UID:2026_11_30_block4_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (L) 120 65 WaJA[1]
+LOCATION:120 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261130T160000
 DTEND;TZID=Europe/Warsaw:20261130T173500
 UID:2026_11_30_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[47]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20261130T175000
+DTEND;TZID=Europe/Warsaw:20261130T192500
+UID:2026_11_30_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 106 65 GŁ[5]
+LOCATION:106 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technologie mobilne - (laboratorium)
@@ -3891,6 +4020,15 @@ DTEND;TZID=Europe/Warsaw:20261203T093500
 UID:2026_12_03_block1_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [54]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261203T114000
+DTEND;TZID=Europe/Warsaw:20261203T131500
+UID:2026_12_03_block3_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 237 S MeM[3]
+LOCATION:237 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projekt z zakresu cyberobrony - (projekt)
@@ -4075,6 +4213,15 @@ DESCRIPTION:Dtu (P) 239 S MeM[6]
 LOCATION:239 S
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261211T175000
+DTEND;TZID=Europe/Warsaw:20261211T192500
+UID:2026_12_11_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (P) 125 65 GŁ[5]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261212T095000
 DTEND;TZID=Europe/Warsaw:20261212T112500
@@ -4115,6 +4262,15 @@ DTEND;TZID=Europe/Warsaw:20261214T173500
 UID:2026_12_14_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[51]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261215T095000
+DTEND;TZID=Europe/Warsaw:20261215T112500
+UID:2026_12_15_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 237 S MeM[4]
+LOCATION:237 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -4237,6 +4393,16 @@ DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[10]
 LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20261218T175000
+DTEND;TZID=Europe/Warsaw:20261218T192500
+UID:2026_12_18_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 106 65 GŁ[6]
+LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261219T095000
 DTEND;TZID=Europe/Warsaw:20261219T112500
@@ -4277,6 +4443,15 @@ DTEND;TZID=Europe/Warsaw:20261221T173500
 UID:2026_12_21_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[53]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261221T175000
+DTEND;TZID=Europe/Warsaw:20261221T192500
+UID:2026_12_21_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (P) 121 65 GŁ[6]
+LOCATION:121 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technologie mobilne - (laboratorium)
@@ -4323,7 +4498,7 @@ SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
 DTSTART;TZID=Europe/Warsaw:20261223T114000
 DTEND;TZID=Europe/Warsaw:20261223T131500
 UID:2026_12_23_block3_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
-DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[1]
+DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[3]
 LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
@@ -4331,7 +4506,7 @@ SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
 DTSTART;TZID=Europe/Warsaw:20261223T133000
 DTEND;TZID=Europe/Warsaw:20261223T150500
 UID:2026_12_23_block4_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
-DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[2]
+DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[4]
 LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
@@ -4339,7 +4514,7 @@ SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
 DTSTART;TZID=Europe/Warsaw:20261223T160000
 DTEND;TZID=Europe/Warsaw:20261223T173500
 UID:2026_12_23_block5_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
-DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[3]
+DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[5]
 LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
@@ -4347,7 +4522,7 @@ SUMMARY:Bezpieczeństwo sieci IPv6 - (projekt)
 DTSTART;TZID=Europe/Warsaw:20261223T175000
 DTEND;TZID=Europe/Warsaw:20261223T192500
 UID:2026_12_23_block6_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
-DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[4]
+DESCRIPTION:BsIP (P) 125 65 Sk.Ł.[6]
 LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
@@ -4441,12 +4616,31 @@ DESCRIPTION:WF (ć) - [65]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20270112T160000
+DTEND;TZID=Europe/Warsaw:20270112T173500
+UID:2027_01_12_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 125 65 GŁ[7]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270113T095000
 DTEND;TZID=Europe/Warsaw:20270113T112500
 UID:2027_01_13_block2_WCY22KC1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[57]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270113T114000
+DTEND;TZID=Europe/Warsaw:20270113T131500
+UID:2027_01_13_block3_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 239 S MeM[5]
+LOCATION:239 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -4513,6 +4707,15 @@ DESCRIPTION:XWF (ć) - -[27]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trends in Computer Technology - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270118T114000
+DTEND;TZID=Europe/Warsaw:20270118T131500
+UID:2027_01_18_block3_WCY22KC1S0_Trends_in_Computer_Technology_-@wcy-plann
+ er
+DESCRIPTION:TCT (L) 120 65 WaJA[2]
+LOCATION:120 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zabezpieczenie medyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270118T133000
 DTEND;TZID=Europe/Warsaw:20270118T150500
@@ -4561,6 +4764,15 @@ DTEND;TZID=Europe/Warsaw:20270119T131500
 UID:2027_01_19_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [67]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270119T160000
+DTEND;TZID=Europe/Warsaw:20270119T173500
+UID:2027_01_19_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (P) 125 65 GŁ[7]
+LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -4667,12 +4879,31 @@ DESCRIPTION:WF (ć) - [69]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20270126T160000
+DTEND;TZID=Europe/Warsaw:20270126T173500
+UID:2027_01_26_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 125 65 GŁ[8]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270127T080000
 DTEND;TZID=Europe/Warsaw:20270127T093500
 UID:2027_01_27_block1_WCY22KC1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[60]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270127T095000
+DTEND;TZID=Europe/Warsaw:20270127T112500
+UID:2027_01_27_block2_WCY22KC1S0_Diagnostyka_i_tolerowanie_uszkodzeń_-@wc
+ y-planner
+DESCRIPTION:Dtu (L) 120 65 MeM[6]
+LOCATION:120 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trends in Computer Technology - (laboratorium)
