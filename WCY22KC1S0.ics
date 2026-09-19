@@ -2478,16 +2478,6 @@ DESCRIPTION:Zt (E) 314 S Ml[2]
 LOCATION:314 S
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych - (egzam
- in poprawkowy)
-DTSTART;TZID=Europe/Warsaw:20260921T095000
-DTEND;TZID=Europe/Warsaw:20260921T112500
-UID:2026_09_21_block2_WCY22KC1S0_Projektowanie_i_wytwarzanie_systemów_tel
- @wcy-planner
-DESCRIPTION:Pwst (Inne) 120 65 Sta[1]
-LOCATION:120 65
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zarządzanie sieciami teleinformatycznymi - (egzamin poprawkowy)
 DTSTART;TZID=Europe/Warsaw:20260928T080000
 DTEND;TZID=Europe/Warsaw:20260928T093500
@@ -2522,6 +2512,16 @@ UID:2026_09_29_block4_WCY22KC1S0_Wszystkie_przedmioty_prowadzącego_-@wcy-
  planner
 DESCRIPTION:Wpp (Inne) 106 65 SW[1]
 LOCATION:106 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie i wytwarzanie systemów teleinformatycznych - (egzam
+ in poprawkowy)
+DTSTART;TZID=Europe/Warsaw:20260930T095000
+DTEND;TZID=Europe/Warsaw:20260930T112500
+UID:2026_09_30_block2_WCY22KC1S0_Projektowanie_i_wytwarzanie_systemów_tel
+ @wcy-planner
+DESCRIPTION:Pwst (Inne) 120 65 Sta[1]
+LOCATION:120 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -4131,6 +4131,14 @@ DESCRIPTION:Ja (ć) 124 K -[50]
 LOCATION:124 K
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Steganografia - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261208T080000
+DTEND;TZID=Europe/Warsaw:20261208T093500
+UID:2026_12_08_block1_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (L) 218 65 Kacz.K[1]
+LOCATION:218 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Technologie mobilne - (wykład)
 DTSTART;TZID=Europe/Warsaw:20261208T095000
 DTEND;TZID=Europe/Warsaw:20261208T112500
@@ -4279,6 +4287,14 @@ DTEND;TZID=Europe/Warsaw:20261215T131500
 UID:2026_12_15_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [59]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261215T133000
+DTEND;TZID=Europe/Warsaw:20261215T150500
+UID:2026_12_15_block4_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (L) 219 65 Kacz.K[2]
+LOCATION:219 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Systemy rozproszone - (projekt)
@@ -4576,6 +4592,14 @@ DESCRIPTION:XWF (ć) - -[26]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Steganografia - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270111T114000
+DTEND;TZID=Europe/Warsaw:20270111T131500
+UID:2027_01_11_block3_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (L) 219 65 Kacz.K[3]
+LOCATION:219 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270111T160000
 DTEND;TZID=Europe/Warsaw:20270111T173500
@@ -4766,6 +4790,14 @@ DESCRIPTION:WF (ć) - [67]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Steganografia - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270119T133000
+DTEND;TZID=Europe/Warsaw:20270119T150500
+UID:2027_01_19_block4_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (L) 219 65 Kacz.K[4]
+LOCATION:219 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
 DTSTART;TZID=Europe/Warsaw:20270119T160000
 DTEND;TZID=Europe/Warsaw:20270119T173500
@@ -4831,6 +4863,22 @@ DESCRIPTION:XWF (ć) - -[28]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Steganografia - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T093500
+UID:2027_01_25_block1_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (L) 218 65 Kacz.K[5]
+LOCATION:218 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270125T095000
+DTEND;TZID=Europe/Warsaw:20270125T112500
+UID:2027_01_25_block2_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (L) 218 65 Kacz.K[6]
+LOCATION:218 65
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Systemy rozproszone - (projekt)
 DTSTART;TZID=Europe/Warsaw:20270125T114000
 DTEND;TZID=Europe/Warsaw:20270125T131500
@@ -4877,6 +4925,14 @@ DTEND;TZID=Europe/Warsaw:20270126T131500
 UID:2027_01_26_block3_WCY22KC1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [69]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steganografia - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270126T133000
+DTEND;TZID=Europe/Warsaw:20270126T150500
+UID:2027_01_26_block4_WCY22KC1S0_Steganografia_-@wcy-planner
+DESCRIPTION:Stg (L) 218 65 Kacz.K[7]
+LOCATION:218 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
