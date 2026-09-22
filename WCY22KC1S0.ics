@@ -1973,16 +1973,16 @@ SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20260528T133000
 DTEND;TZID=Europe/Warsaw:20260528T150500
 UID:2026_05_28_block4_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
-DESCRIPTION:SzS (ć) ST.nr 1 \, ST.n -[1]
-LOCATION:ST.nr 1 \, ST.n
+DESCRIPTION:SzS (ć) ST.nr 1(KB) \, -[1]
+LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Szkolenie strzeleckie - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20260528T160000
 DTEND;TZID=Europe/Warsaw:20260528T173500
 UID:2026_05_28_block5_WCY22KC1S0_Szkolenie_strzeleckie_-@wcy-planner
-DESCRIPTION:SzS (ć) ST.nr 1 \, ST.n -[2]
-LOCATION:ST.nr 1 \, ST.n
+DESCRIPTION:SzS (ć) ST.nr 1(KB) \, -[2]
+LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
