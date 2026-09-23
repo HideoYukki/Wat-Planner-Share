@@ -2787,6 +2787,14 @@ DESCRIPTION:WF (ć) - [40]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261023T133000
+DTEND;TZID=Europe/Warsaw:20261023T150500
+UID:2026_10_23_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (L) 228 S Stą[1]
+LOCATION:228 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261024T095000
 DTEND;TZID=Europe/Warsaw:20261024T112500
@@ -2855,12 +2863,28 @@ DESCRIPTION:Ja (ć) - -[38]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261028T114000
+DTEND;TZID=Europe/Warsaw:20261028T131500
+UID:2026_10_28_block3_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (L) 223 S Stą[2]
+LOCATION:223 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261029T080000
 DTEND;TZID=Europe/Warsaw:20261029T093500
 UID:2026_10_29_block1_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [42]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261029T095000
+DTEND;TZID=Europe/Warsaw:20261029T112500
+UID:2026_10_29_block2_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 228 S Stą[1]
+LOCATION:228 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarządzanie wiedzą - (wykład)
@@ -2922,6 +2946,14 @@ DESCRIPTION:XWF (ć) - -[18]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261102T095000
+DTEND;TZID=Europe/Warsaw:20261102T112500
+UID:2026_11_02_block2_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (L) 227 S Stą[3]
+LOCATION:227 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
   (wykład)
 DTSTART;TZID=Europe/Warsaw:20261102T114000
@@ -2964,6 +2996,14 @@ DTEND;TZID=Europe/Warsaw:20261103T131500
 UID:2026_11_03_block3_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [44]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261103T133000
+DTEND;TZID=Europe/Warsaw:20261103T150500
+UID:2026_11_03_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 237 S Stą[2]
+LOCATION:237 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -3262,12 +3302,28 @@ DESCRIPTION:WF (ć) - [48]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261113T133000
+DTEND;TZID=Europe/Warsaw:20261113T150500
+UID:2026_11_13_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 237 S Stą[3]
+LOCATION:237 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261114T095000
 DTEND;TZID=Europe/Warsaw:20261114T112500
 UID:2026_11_14_block2_WCY22KB1S0_XWychowanie_fizyczne_-@wcy-planner
 DESCRIPTION:XWF (ć) - -[20]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261116T095000
+DTEND;TZID=Europe/Warsaw:20261116T112500
+UID:2026_11_16_block2_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (L) 236 S Stą[4]
+LOCATION:236 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
@@ -3320,6 +3376,14 @@ UID:2026_11_18_block3_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
  wcy-planner
 DESCRIPTION:Zmwm (w) 308 S OJ[3]
 LOCATION:308 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261118T133000
+DTEND;TZID=Europe/Warsaw:20261118T150500
+UID:2026_11_18_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 223 S Stą[4]
+LOCATION:223 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -3766,6 +3830,14 @@ DESCRIPTION:WF (ć) - [55]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261204T133000
+DTEND;TZID=Europe/Warsaw:20261204T150500
+UID:2026_12_04_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 227 S Stą[5]
+LOCATION:227 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261205T095000
 DTEND;TZID=Europe/Warsaw:20261205T112500
@@ -3910,6 +3982,14 @@ DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261211T095000
+DTEND;TZID=Europe/Warsaw:20261211T112500
+UID:2026_12_11_block2_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 236 S Stą[6]
+LOCATION:236 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261211T114000
 DTEND;TZID=Europe/Warsaw:20261211T131500
@@ -3980,6 +4060,14 @@ DTEND;TZID=Europe/Warsaw:20261215T131500
 UID:2026_12_15_block3_WCY22KB1S0_Wychowanie_fizyczne@wcy-planner
 DESCRIPTION:WF (ć) - [59]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261215T133000
+DTEND;TZID=Europe/Warsaw:20261215T150500
+UID:2026_12_15_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 224 S Stą[7]
+LOCATION:224 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -4111,6 +4199,14 @@ DTEND;TZID=Europe/Warsaw:20261221T131500
 UID:2026_12_21_block3_WCY22KB1S0_Steganografia_-@wcy-planner
 DESCRIPTION:Stg (w) 307 S Kacz.K[8]
 LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261221T133000
+DTEND;TZID=Europe/Warsaw:20261221T150500
+UID:2026_12_21_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 252 S Stą[8]
+LOCATION:252 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Język angielski - (ćwiczenia)
@@ -4270,6 +4366,14 @@ DESCRIPTION:WF (ć) - [64]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270108T133000
+DTEND;TZID=Europe/Warsaw:20270108T150500
+UID:2027_01_08_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 227 S Stą[9]
+LOCATION:227 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270109T095000
 DTEND;TZID=Europe/Warsaw:20270109T112500
@@ -4369,6 +4473,14 @@ UID:2027_01_13_block3_WCY22KB1S0_Wybrane_zagadnienia_bezpieczeństwa_narod
  @wcy-planner
 DESCRIPTION:wzbnim (ć) 204 65 [4]
 LOCATION:204 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270113T133000
+DTEND;TZID=Europe/Warsaw:20270113T150500
+UID:2027_01_13_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 239 S Stą[10]
+LOCATION:239 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
@@ -4500,6 +4612,14 @@ DTEND;TZID=Europe/Warsaw:20270120T093500
 UID:2027_01_20_block1_WCY22KB1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[58]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270120T095000
+DTEND;TZID=Europe/Warsaw:20270120T112500
+UID:2027_01_20_block2_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 226 S Stą[11]
+LOCATION:226 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teoria wojny informacyjnej - (laboratorium)
@@ -4658,6 +4778,14 @@ DTEND;TZID=Europe/Warsaw:20270127T093500
 UID:2027_01_27_block1_WCY22KB1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[60]
 LOCATION:124 K
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarządzanie wiedzą - (projekt)
+DTSTART;TZID=Europe/Warsaw:20270127T095000
+DTEND;TZID=Europe/Warsaw:20270127T112500
+UID:2027_01_27_block2_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
+DESCRIPTION:Zawi (P) 228 S Stą[12]
+LOCATION:228 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diagnostyka i tolerowanie uszkodzeń - (projekt)
