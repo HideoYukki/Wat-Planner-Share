@@ -2591,16 +2591,6 @@ DESCRIPTION:PsbI (w) 307 S GŁ[1]
 LOCATION:307 S
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
- )
-DTSTART;TZID=Europe/Warsaw:20261002T175000
-DTEND;TZID=Europe/Warsaw:20261002T192500
-UID:2026_10_02_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
- n@wcy-planner
-DESCRIPTION:PsbI (L) 011 65 GŁ[1]
-LOCATION:011 65
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261003T095000
 DTEND;TZID=Europe/Warsaw:20261003T112500
@@ -3101,16 +3091,6 @@ DESCRIPTION:PsbI (w) 307 S GŁ[3]
 LOCATION:307 S
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
- )
-DTSTART;TZID=Europe/Warsaw:20261023T175000
-DTEND;TZID=Europe/Warsaw:20261023T192500
-UID:2026_10_23_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
- n@wcy-planner
-DESCRIPTION:PsbI (L) 106 65 GŁ[2]
-LOCATION:106 65
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261024T095000
 DTEND;TZID=Europe/Warsaw:20261024T112500
@@ -3218,6 +3198,26 @@ DTEND;TZID=Europe/Warsaw:20261029T150500
 UID:2026_10_29_block4_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
 DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[4]
 LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20261029T160000
+DTEND;TZID=Europe/Warsaw:20261029T173500
+UID:2026_10_29_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 121 65 GŁ[1]
+LOCATION:121 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20261029T175000
+DTEND;TZID=Europe/Warsaw:20261029T192500
+UID:2026_10_29_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 121 65 GŁ[2]
+LOCATION:121 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
@@ -3467,16 +3467,6 @@ DESCRIPTION:Dtu (P) 201 65 MeM[4]
 LOCATION:201 65
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
- )
-DTSTART;TZID=Europe/Warsaw:20261106T175000
-DTEND;TZID=Europe/Warsaw:20261106T192500
-UID:2026_11_06_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
- n@wcy-planner
-DESCRIPTION:PsbI (L) 125 65 GŁ[3]
-LOCATION:125 65
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261107T095000
 DTEND;TZID=Europe/Warsaw:20261107T112500
@@ -3718,6 +3708,16 @@ DTSTART;TZID=Europe/Warsaw:20261117T160000
 DTEND;TZID=Europe/Warsaw:20261117T173500
 UID:2026_11_17_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
  n@wcy-planner
+DESCRIPTION:PsbI (L) 125 65 GŁ[3]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20261117T175000
+DTEND;TZID=Europe/Warsaw:20261117T192500
+UID:2026_11_17_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
 DESCRIPTION:PsbI (L) 125 65 GŁ[4]
 LOCATION:125 65
 END:VEVENT
@@ -3944,16 +3944,6 @@ DTEND;TZID=Europe/Warsaw:20261130T173500
 UID:2026_11_30_block5_WCY22KC1S0_Język_angielski_-@wcy-planner
 DESCRIPTION:Ja (ć) 124 K -[47]
 LOCATION:124 K
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
- )
-DTSTART;TZID=Europe/Warsaw:20261130T175000
-DTEND;TZID=Europe/Warsaw:20261130T192500
-UID:2026_11_30_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
- n@wcy-planner
-DESCRIPTION:PsbI (L) 106 65 GŁ[5]
-LOCATION:106 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technologie mobilne - (laboratorium)
@@ -4409,16 +4399,6 @@ DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[10]
 LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
- )
-DTSTART;TZID=Europe/Warsaw:20261218T175000
-DTEND;TZID=Europe/Warsaw:20261218T192500
-UID:2026_12_18_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
- n@wcy-planner
-DESCRIPTION:PsbI (L) 106 65 GŁ[6]
-LOCATION:106 65
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20261219T095000
 DTEND;TZID=Europe/Warsaw:20261219T112500
@@ -4646,7 +4626,17 @@ DTSTART;TZID=Europe/Warsaw:20270112T160000
 DTEND;TZID=Europe/Warsaw:20270112T173500
 UID:2027_01_12_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
  n@wcy-planner
-DESCRIPTION:PsbI (L) 125 65 GŁ[7]
+DESCRIPTION:PsbI (L) 125 65 GŁ[5]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20270112T175000
+DTEND;TZID=Europe/Warsaw:20270112T192500
+UID:2027_01_12_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 125 65 GŁ[6]
 LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT
@@ -4940,6 +4930,16 @@ SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
 DTSTART;TZID=Europe/Warsaw:20270126T160000
 DTEND;TZID=Europe/Warsaw:20270126T173500
 UID:2027_01_26_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (L) 125 65 GŁ[7]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (laboratorium
+ )
+DTSTART;TZID=Europe/Warsaw:20270126T175000
+DTEND;TZID=Europe/Warsaw:20270126T192500
+UID:2027_01_26_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
  n@wcy-planner
 DESCRIPTION:PsbI (L) 125 65 GŁ[8]
 LOCATION:125 65
