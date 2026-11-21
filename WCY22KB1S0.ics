@@ -2918,8 +2918,8 @@ DTSTART;TZID=Europe/Warsaw:20261029T133000
 DTEND;TZID=Europe/Warsaw:20261029T150500
 UID:2026_10_29_block4_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
  lanner
-DESCRIPTION:Pjn (w) 309 S Maz[4]
-LOCATION:309 S
+DESCRIPTION:Pjn (w) 236 S Maz[4]
+LOCATION:236 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
@@ -3075,6 +3075,22 @@ DESCRIPTION:Wf_E (E) - -[1]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Język angielski - egzamin - (inne)
+DTSTART;TZID=Europe/Warsaw:20261105T080000
+DTEND;TZID=Europe/Warsaw:20261105T093500
+UID:2026_11_05_block1_WCY22KB1S0_Język_angielski_-_egzamin_-@wcy-planner
+DESCRIPTION:JA-E (Inne) - -[1]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Język angielski - egzamin - (inne)
+DTSTART;TZID=Europe/Warsaw:20261105T095000
+DTEND;TZID=Europe/Warsaw:20261105T112500
+UID:2026_11_05_block2_WCY22KB1S0_Język_angielski_-_egzamin_-@wcy-planner
+DESCRIPTION:JA-E (Inne) - -[2]
+LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
 DTSTART;TZID=Europe/Warsaw:20261105T114000
 DTEND;TZID=Europe/Warsaw:20261105T131500
@@ -3162,8 +3178,8 @@ DTSTART;TZID=Europe/Warsaw:20261109T080000
 DTEND;TZID=Europe/Warsaw:20261109T093500
 UID:2026_11_09_block1_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
  r
-DESCRIPTION:IRz (L) 224 S GuT[3]
-LOCATION:224 S
+DESCRIPTION:IRz (L) 227 S GuT[3]
+LOCATION:227 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
@@ -3171,8 +3187,8 @@ DTSTART;TZID=Europe/Warsaw:20261109T095000
 DTEND;TZID=Europe/Warsaw:20261109T112500
 UID:2026_11_09_block2_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
  r
-DESCRIPTION:IRz (L) 224 S GuT[4]
-LOCATION:224 S
+DESCRIPTION:IRz (L) 227 S GuT[4]
+LOCATION:227 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego
@@ -3392,8 +3408,8 @@ DTSTART;TZID=Europe/Warsaw:20261118T114000
 DTEND;TZID=Europe/Warsaw:20261118T131500
 UID:2026_11_18_block3_WCY22KB1S0_Zaawansowane_metody_uczenia_maszynowego_@
  wcy-planner
-DESCRIPTION:Zmwm (w) 308 S OJ[3]
-LOCATION:308 S
+DESCRIPTION:Zmwm (w) 218 65 OJ[3]
+LOCATION:218 65
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarządzanie wiedzą - (projekt)
@@ -4521,8 +4537,8 @@ SUMMARY:Regulaminy SZ RP (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270114T114000
 DTEND;TZID=Europe/Warsaw:20270114T131500
 UID:2027_01_14_block3_WCY22KB1S0_Regulaminy_SZ_RP@wcy-planner
-DESCRIPTION:REG (ć) AW 3/038 [2]
-LOCATION:AW 3/038
+DESCRIPTION:REG (ć) AW 3/043 [2]
+LOCATION:AW 3/043
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
