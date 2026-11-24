@@ -4374,24 +4374,6 @@ DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20270108T080000
-DTEND;TZID=Europe/Warsaw:20270108T093500
-UID:2027_01_08_block1_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
- r
-DESCRIPTION:IRz (L) 224 S GuT[11]
-LOCATION:224 S
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20270108T095000
-DTEND;TZID=Europe/Warsaw:20270108T112500
-UID:2027_01_08_block2_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
- r
-DESCRIPTION:IRz (L) 224 S GuT[12]
-LOCATION:224 S
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
 DTSTART;TZID=Europe/Warsaw:20270108T114000
 DTEND;TZID=Europe/Warsaw:20270108T131500
@@ -4718,6 +4700,24 @@ DTEND;TZID=Europe/Warsaw:20270123T112500
 UID:2027_01_23_block2_WCY22KB1S0_XWychowanie_fizyczne_-@wcy-planner
 DESCRIPTION:XWF (ć) - -[28]
 LOCATION:-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270125T080000
+DTEND;TZID=Europe/Warsaw:20270125T093500
+UID:2027_01_25_block1_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 237 S GuT[11]
+LOCATION:237 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technologie Internetu Rzeczy - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270125T095000
+DTEND;TZID=Europe/Warsaw:20270125T112500
+UID:2027_01_25_block2_WCY22KB1S0_Technologie_Internetu_Rzeczy_-@wcy-planne
+ r
+DESCRIPTION:IRz (L) 237 S GuT[12]
+LOCATION:237 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steganografia - (laboratorium)
