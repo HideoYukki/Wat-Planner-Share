@@ -4040,6 +4040,14 @@ DESCRIPTION:XWF (ć) - -[24]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teoria wojny informacyjnej - (wykład)
+DTSTART;TZID=Europe/Warsaw:20261214T080000
+DTEND;TZID=Europe/Warsaw:20261214T093500
+UID:2026_12_14_block1_WCY22KB1S0_Teoria_wojny_informacyjnej_-@wcy-planner
+DESCRIPTION:Twinf (w) 307 S KR[8]
+LOCATION:307 S
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Steganografia - (wykład)
 DTSTART;TZID=Europe/Warsaw:20261214T095000
 DTEND;TZID=Europe/Warsaw:20261214T112500
@@ -4828,14 +4836,6 @@ DTEND;TZID=Europe/Warsaw:20270128T211500
 UID:2027_01_28_block7_WCY22KB1S0_-_-@wcy-planner
 DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teoria wojny informacyjnej - (wykład)
-DTSTART;TZID=Europe/Warsaw:20270129T080000
-DTEND;TZID=Europe/Warsaw:20270129T093500
-UID:2027_01_29_block1_WCY22KB1S0_Teoria_wojny_informacyjnej_-@wcy-planner
-DESCRIPTION:Twinf (w) 314 S KR[8]
-LOCATION:314 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wychowanie fizyczne (ćwiczenia)
