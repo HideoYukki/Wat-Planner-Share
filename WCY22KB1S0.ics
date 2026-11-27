@@ -3687,24 +3687,6 @@ DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20261126T160000
-DTEND;TZID=Europe/Warsaw:20261126T173500
-UID:2026_11_26_block5_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
- lanner
-DESCRIPTION:Pjn (L) 226 S Maz[3]
-LOCATION:226 S
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20261126T175000
-DTEND;TZID=Europe/Warsaw:20261126T192500
-UID:2026_11_26_block6_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
- lanner
-DESCRIPTION:Pjn (L) 226 S Maz[4]
-LOCATION:226 S
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
 DTSTART;TZID=Europe/Warsaw:20261126T194000
 DTEND;TZID=Europe/Warsaw:20261126T211500
@@ -3826,7 +3808,7 @@ DTSTART;TZID=Europe/Warsaw:20261203T160000
 DTEND;TZID=Europe/Warsaw:20261203T173500
 UID:2026_12_03_block5_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
  lanner
-DESCRIPTION:Pjn (L) 226 S Maz[5]
+DESCRIPTION:Pjn (L) 226 S Maz[3]
 LOCATION:226 S
 END:VEVENT
 BEGIN:VEVENT
@@ -3835,7 +3817,7 @@ DTSTART;TZID=Europe/Warsaw:20261203T175000
 DTEND;TZID=Europe/Warsaw:20261203T192500
 UID:2026_12_03_block6_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
  lanner
-DESCRIPTION:Pjn (L) 226 S Maz[6]
+DESCRIPTION:Pjn (L) 226 S Maz[4]
 LOCATION:226 S
 END:VEVENT
 BEGIN:VEVENT
@@ -3870,6 +3852,24 @@ DTEND;TZID=Europe/Warsaw:20261204T150500
 UID:2026_12_04_block4_WCY22KB1S0_Zarządzanie_wiedzą_-@wcy-planner
 DESCRIPTION:Zawi (P) 227 S Stą[5]
 LOCATION:227 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261204T160000
+DTEND;TZID=Europe/Warsaw:20261204T173500
+UID:2026_12_04_block5_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 228 S Maz[5]
+LOCATION:228 S
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przetwarzanie języka naturalnego - (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20261204T175000
+DTEND;TZID=Europe/Warsaw:20261204T192500
+UID:2026_12_04_block6_WCY22KB1S0_Przetwarzanie_języka_naturalnego_-@wcy-p
+ lanner
+DESCRIPTION:Pjn (L) 228 S Maz[6]
+LOCATION:228 S
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XWychowanie fizyczne - (ćwiczenia)

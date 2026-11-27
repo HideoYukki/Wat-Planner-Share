@@ -3864,15 +3864,6 @@ DESCRIPTION:- (S.Sz.W.) - -[1]
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
-DTSTART;TZID=Europe/Warsaw:20261126T160000
-DTEND;TZID=Europe/Warsaw:20261126T173500
-UID:2026_11_26_block5_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
- n@wcy-planner
-DESCRIPTION:PsbI (P) 125 65 GŁ[4]
-LOCATION:125 65
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:- - (studium szkol. wojs.)
 DTSTART;TZID=Europe/Warsaw:20261126T194000
 DTEND;TZID=Europe/Warsaw:20261126T211500
@@ -4043,6 +4034,15 @@ DTSTART;TZID=Europe/Warsaw:20261204T160000
 DTEND;TZID=Europe/Warsaw:20261204T173500
 UID:2026_12_04_block5_WCY22KC1S0_Bezpieczeństwo_sieci_IPv6_-@wcy-planner
 DESCRIPTION:BsIP (L) 125 65 Sk.Ł.[4]
+LOCATION:125 65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektowanie systemów bezpieczeństwa informacji - (projekt)
+DTSTART;TZID=Europe/Warsaw:20261204T175000
+DTEND;TZID=Europe/Warsaw:20261204T192500
+UID:2026_12_04_block6_WCY22KC1S0_Projektowanie_systemów_bezpieczeństwa_i
+ n@wcy-planner
+DESCRIPTION:PsbI (P) 125 65 GŁ[4]
 LOCATION:125 65
 END:VEVENT
 BEGIN:VEVENT

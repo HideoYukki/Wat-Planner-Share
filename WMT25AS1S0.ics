@@ -1519,6 +1519,14 @@ DESCRIPTION:WF (ć) - WóS
 LOCATION:-
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Laboratorium wytrzymałości i nauki o materiałach (laboratorium)
+DTSTART;TZID=Europe/Warsaw:20270128T095000
+DTEND;TZID=Europe/Warsaw:20270128T112500
+UID:2027-01-28_3-4_WMT25AS1S0_Lwnm@wmt-planner
+DESCRIPTION:Lwnm (L) - Dzie
+LOCATION:2 25\;13 25
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laboratorium inżynierii wytwarzania i pomiarów warsztatowych (wy
  kład)
 DTSTART;TZID=Europe/Warsaw:20261001T114000
@@ -1799,14 +1807,6 @@ DTEND;TZID=Europe/Warsaw:20261119T173500
 UID:2026-11-19_9-10_WMT25AS1S0_PEt@wmt-planner
 DESCRIPTION:PEt (ć) - Szc
 LOCATION:325 S
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Laboratorium wytrzymałości i nauki o materiałach (laboratorium)
-DTSTART;TZID=Europe/Warsaw:20261126T160000
-DTEND;TZID=Europe/Warsaw:20261126T173500
-UID:2026-11-26_9-10_WMT25AS1S0_Lwnm@wmt-planner
-DESCRIPTION:Lwnm (L) - Dzie
-LOCATION:2 25\;13 25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Podstawy elektrotechniki (laboratorium)
